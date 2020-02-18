@@ -1,0 +1,214 @@
+{"rules":[
+
+{
+    "match":[
+      {"word":"::SUFFIX:mucosa|biopsias|coágulos|concentrados|hemáticos|resultó|amiloide|,|<s>|asintomática|linfocele|periférica|cordón|espermático|implantes|::SUFFIX:scópicos|peritoneo|visceral|resección|bordes|inicio|éxito|negativo|positivo|secundario|vida|factores|estimulantes|eritropoyesis|tóxicos|cóccix|::PREFIX:adeno|control|atipía|exudado|amigdalar|número|mitosis|celiaca|::SUFFIX:mental|test|axilas|manos|genitales|periodos|vividos|libertad|::PREFIX:poste|::PREFIX:ante|reiterados|ingresos|nódulos|satélites|::SUFFIX:craneal|::SUFFIX:mmHg|novo|cáncer|valoración|manera|intensa|descendente|ascendente|orientación|diagnóstica|hematom|::SUFFIX:grafia|::SUFFIX:abdominal|sangre|aspecto|calcificación|masiva|interna|evolución|dieta|libre|familiar|restos|maxilares|radiculares|temporal|izquierda|numerosos|quiste|epitelial|iris|niveles|elevados|::SUFFIX:trofia|::PREFIX:hiper|ventricular|derechos|molares|dientes|aproximadamente|ml|cl|mg|::PREFIX:intra|administración|::SUFFIX:dermia|::SUFFIX:dérmica|respuesta|::SUFFIX:occipital|::PREFIX:parieto|::SUFFIX:circulares|::SUFFIX:facial|impacto|directo|::SUFFIX:ectomía|tabla|únicamente|conductos|fragmentos|::SUFFIX:basales|::SUFFIX:nasal|impactados|consultar|ligeramente|sobreelevada|unidad|solitario|fibroso|cm|Gy|respectivamente|derivaciones|inferiores|superiores|::PREFIX:endo|engrosamientos|irregulares|ECG|normales|::SUFFIX:carcinoma|dispareunia|término|urología|litiásicas|incrustaciones|fácil|sangrado|como|método|::SUFFIX:conceptivo|::SUFFIX:titis|::SUFFIX:ecciosa|induración|::SUFFIX:plasia|::SUFFIX:tubular|::SUFFIX:zación|fibrosis|testículo|germinal|Nx|Mx|importantes|estructuras|salida|entrada|::SUFFIX:omosis|::SUFFIX:sigmoidea|::PREFIX:anatomo|TAC|RM|CCR|PAAF|criterios|antisuero|antiandrógenos|claros|hemangiomas|enfermedad|metástasis|diagnóstico|inicial|=LRB=|=RRB=|dificultad|::SUFFIX:terapia|::SUFFIX:tumoral|márgenes|quirúrgicos|libres|tumor|descartar|otras|apetito|calcificaciones|diámetro|incrementada|informe|extensas","ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"word":"hematíes|intensidad|Ingreso|hospitalario|durante|días|IRC|Litiasis|cálcica|ciego|aeruginosa|::PREFIX:apéndico|teste|derecho|características|quísticas|sospechosa|no|epidídimo|estricto|amplio|espectro|::SUFFIX:renal|::SUFFIX:arterial|aunque|focalmente|hacia|hematoma|perineal|cavernoso|izquierdo|abscesificadas|drenaje|::SUFFIX:iscitis|Múltiplex|movimientos|reciente|comienzo|aquileo|Velocidad|sedimentación|eyaculatorios|sexo|varicocele|segundos|duplicados|severa|::SUFFIX:spermia|ambos|epidídimos|primeros|análogos|agosto|dispepsia|pulmonar|obstructiva|crónica|pubis|percusión|medial|agenesia|parcial|uréter|Dichos|hallazgos|textiles|rangos|::PREFIX:urino|::SUFFIX:cultivo|nodular|esfuerzo|orina","ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"word":"colon|sigmoideo|empeoramiento|gradiente|::PREFIX:alveol|pediátrico|::SUFFIX:coscopio|frecuencia|::PREFIX:respirator|Fueron|necesarios|litros|esta|primera|fase|aclarando|para|C|depresión|hepática|duración|convexa|concava|Mientras|estuvo|ST|SB|I|II|III|máxima|diario|hasta|cocientes|Glasgow|figura|dosis|reactiva|OD|PO|OI|ligadura|ésta|cubitales|presentes|obstruida|interósea|cuff|requerimiento|bolos","ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"word":"oral|::SUFFIX:litiasis|cápsula|residencia|cavidad|::SUFFIX:filia|UU|EE|irritación|peritoneal|animal|observación|divertículo|edema|agudo|tratamiento|múltiples|quistes|parapiélicos|bilaterales|nefritis|intersticial|moderada|grave|función|autonómica|enterocito|bioquímicos|::PREFIX:psiquiátrico|previos|conductas|purgativas|mensual|laxantes|vómitos|neutró|filos|preshock|tensión|Glucemia|::PREFIX:pancreátic|::SUFFIX:normal|::SUFFIX:tumor|inflamatorio|patrón|colestasis|yeyuno|yeyunal|malabsorción|microbiología|dermatofitosis|Medicina|ropa|cristalino|OCT|fumador|bebedor|::PREFIX:ex-|retinopatía|diabética|leve|moderada|implante|escleral|segmentado|prominente|cerclaje|coriorretiniana|estenopéico|corticoides|anomalías|migración|neuronal|pequeñas|tópicos|primarios|::SUFFIX:epiteliales","ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"word":"biopsia|realizada|peroné|periósticas|cadena|adyacente|carotídeo|glomus|cadenas|ligeras|inmunoglobulinas|las|osificantes|Ningún|tipo|parafunción|pesquisada|oclusión|marcado|::PREFIX:electro|eritematosa|pulpa|MAV|ingreso|inspección|::SUFFIX:mandibular|fistuloso|bolsón","ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"word":"horaria|fija|cayados|plaquetas|signos|locales|apendicitis|Bichat|PLGA|estrato|esmalte|dental|encía|masticación|citados|::SUFFIX:coronario|herniado|tras|grasa|autógena|metastásico|proceso|parotídeos|lóbulos|espontáneamente|éste|desmineralizado|banco|ortodoncia|estética|funcionalidad|::SUFFIX:encéfalo|distancia|GANT|::SUFFIX:sarcoma|::PREFIX:recto|compatible|con|reflujo|::PREFIX:gastro|::SUFFIX:esofágico|apendicitis|aguda|polilobulada|cráter|normocoloreada|anamnesis|alguna|fibrótico|hialinizado|teórico|tamaño|vasos|sanguíneos|aislados|::PREFIX:hemangio|específica|urinaria|es|::SUFFIX:celular|sarcoma|::PREFIX:epitelio|Paz","ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{   "comment":"http://www.practicingspanish.com/body.html",
+    "match":[
+      {"word":"cuerpo|cuero|cabelludo|cabeza|cerebro|oreja|cara|mandíbula|nuca|cuello|laringe|glándula|tiroides|tráquea|hombro|clavícula|arteria|costilla|pulmón|corazón|músculo|pecho|brazo|vena|axila|hígado|bazo|estómago|riñón|vesícula|biliar|páncreas|codo|antebrazo|barriga|apéndice|tendón|vejiga|pelvis|cadera|muñeca|mano|pulgar|palma|índice|dedo|diafragma|intestino|grueso|nervio|ganglio|linfático|delgado|muslo|ingle|rodilla|pierna|espinilla|hueso|articulación|tobillo|talón|pie|dedos|del|uña|pantorrilla","ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{   "comment":"http://www.practicingspanish.com/body.html",
+    "match":[
+      {"word":"escápula|piel|cintura|garganta|columna|vertebral|espalda|ombligo|nalgas|ano|próstata|testículos|pene|mamas|senos|pezones|ovarios|útero|cérvix|vagina|recto|panza|pancita|vientre|uretra","ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+
+{
+    "match":[
+      {"word":".|!|?","min":0,"id":"0"},
+      {"word":"</s>","id":"0","max":1}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{   
+    "match":[
+      {"or":[
+          {"lemma":"sensación|células|atipia|::SUFFIX:embolismo|cava|estaban|::SUFFIX:carcinoma|anastomosis|criterios|infecciones|intervenida|manifestaciones|zonas|flujos|focos|encima|aumento|músculo|servicio|áreas"},
+          {"ctag":"TITLE"},
+          {"msd":"VERB"}
+        ],"id":"0"},
+      {"lemma":"!de","min":0,"max":1,"id":"0"},
+      {"lemma":"de","min":0,"id":"0"},
+      {"ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"ner":"O","max":1},
+      {"or":[{"word":"de|no|y|en|del|la|los|el|e"},{"msd":"PUNCT"}],"ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"or":[{"word":"de|no|y|en|del|la|los|el|e"},{"msd":"PUNCT"}],"ner":"!O","id":"0"},
+      {"ner":"O","max":1}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+
+{
+    "match":[
+      {"word":"de","id":"0"},
+      {"ner":"!O","msd":"NUM","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"lemma":"se","id":"0"},
+      {"lemma":"trataba","id":"0"},
+      {"lemma":"de","id":"0"},
+      {"lemma":"un","id":"0"},
+      {"ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"lemma":"tenía","min":0,"id":"0"},
+      {"lemma":"percepción","id":"0"},
+      {"lemma":"de","id":"0"},
+      {"ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+
+{
+    "match":[
+      {"lemma":"sonda","id":"0"},
+      {"lemma":"de","id":"0"},
+      {"lemma":"el","id":"0"},
+      {"ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"lemma":"consistencia","id":"0"},
+      {"lemma":"!de","max":3,"id":"0"},
+      {"lemma":"de","id":"0"},
+      {"ner":"!O","min":0,"id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"lemma":"quístico","id":"0"},
+      {"lemma":"con","id":"0"},
+      {"ner":"!O","min":0,"id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"lemma":"dosis","id":"0"},
+      {"lemma":"de","id":"0"},
+      {"msd":"NUM","id":"0"},
+      {"ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"lemma":"con","id":"0"},
+      {"lemma":"tumor","id":"0"},
+      {"ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"ner":"!O","max":1},
+      {"lemma":"y|e","id":"0"},
+      {"ner":"!O","max":1}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"ctag":"PERSON|VERB|DET|ADP","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"word":"procesos|absceso|derivación|::SUFFIX:bacterium|::SUFFIX:bacteria","id":"0"},
+      {"ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"word":"enfermedades|mediante|dependiente|Cirugía","id":"0"},
+      {"word":"técnica","min":0,"id":"0"},
+      {"word":"de","ner":"!O","id":"0"},
+      {"ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+}
+
+
+
+
+]}

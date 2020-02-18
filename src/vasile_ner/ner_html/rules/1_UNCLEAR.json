@@ -1,0 +1,27 @@
+{"rules":[
+
+{
+    "match":[
+      {"word":"FOLFIRI|ABVD|alcohol|BEACOPP|BEP|cannabis|CHOP|cigarrillos|cigarros|CMF|COPP|C-VAD|drogas|EMLA|EOX|FMD|FOLFORI|FOLFOX|gluten|gramíneas|marihuana|melanina|MOPP|olivo|R-CHOP|tabaco|tóxicos|Estragón|Silimarina|Bromelaína|Melanina|Vaselina|Lanolina|Alcohol|Tabaco|Marihuana|Cannabis|Opio|Gluten","id":"0"}
+    ],
+    "result":[{"id":"0","type":"UNCLEAR"}]
+},
+
+{
+    "match":[
+      {"word":"vacuna","id":"0"},
+      {"word":"::PREFIX:anti","id":"0"}
+    ],
+    "result":[{"id":"0","type":"UNCLEAR"}]
+},
+
+{
+    "match":[
+      {"word":"mFOLFOX","id":"0"},
+      {"word":"::NUMBER","id":"0"}
+    ],
+    "result":[{"id":"0","type":"UNCLEAR"}]
+}
+
+
+]}

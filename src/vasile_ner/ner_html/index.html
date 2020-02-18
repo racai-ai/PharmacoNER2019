@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>NER</title>
+<script src="jquery-3.2.1.min.js"></script>
+<script src="xml.js"></script>
+  <script type="text/javascript" src="vis.min.js"></script>
+  <link href="vis.min.css" rel="stylesheet" type="text/css" />
+
+  <style type="text/css">
+    #relations_rules {
+      width: 99%;
+      height: 350px;
+      border: 1px solid lightgray;
+      margin:auto;
+    }
+    #relations_sent {
+      width: 99%;
+      height: 350px;
+      border: 1px solid lightgray;
+      margin:auto;
+    }
+  </style>
+
+</head>
+
+<body>
+
+<div style="display:inline-block; width:45%">
+
+    <form id="ner_input" action="ner.php" method="post" enctype="multipart/form-data"  onsubmit="return submit_click();">
+    
+        <p>Introduceți un text (poate fi format din mai multe propoziții), cu diacritice.</p>
+        
+        <textarea rows="12" name="text" id="text" style="width:95%;"></textarea><br/>
+        
+        <!--<input type="checkbox" name="debug" value="True">DEBUG<br>-->
+        <input id="ner_submit" type="submit" name="submit" value="Procesare" />
+    </form>
+    
+    <div id="loading" style="display:none"><img src="loading.gif" style="height:350px"/></div>
+    
+    <textarea rows="15" id="result" style="display:none; width:95%"></textarea>
+
+</div>
+
+<div style="display:inline-block; width:52%;  vertical-align:top;">
+<div id="relations_rules"></div>
+<div id="relations_sent"></div>
+</div>
+
+<script>
+function submit_click(){
+    $('#ner_submit').prop('disabled',true);
+    $('#loading').show();
+    $.ajax({        
+      dataType: "text",
+      url: "ner.php",
+      method:"POST",
+      data:{
+        "text":$('#text').val()
+      },
+      success: function(data){
+          $('#result').val(data);
+
+          $('#ner_submit').prop('disabled',false);
+          $('#loading').hide();
+          $('#result').show();
+          //console.log(data);
+          
+          $.ajax({
+            dataType: "xml",
+            url: "relations_rules.php",
+            method:"POST",
+            data:{
+              "text":data
+            },
+            success: function(data){
+                //console.log(data);
+                // create an array with nodes
+                var gnodes = new vis.DataSet([]);
+              
+                // create an array with edges
+                var gedges = new vis.DataSet([]);
+
+                // create a network
+                var container = document.getElementById('relations_rules');
+                var gdata = {
+                  nodes: gnodes,
+                  edges: gedges
+                };
+                var options = {};
+                var network = new vis.Network(container, gdata, options);
+                
+                $xml = $( data );
+                var nodes=$xml.find("node");
+                for(var i=0;i<nodes.length;i++){
+                    var node=$(nodes[i]);
+                    //console.log(node);
+                    //console.log(node[0].attributes[0].value); 
+                    //console.log(node[0].childNodes[0].textContent);
+                    gnodes.add({
+                      id:node[0].attributes[0].value,
+                      label:node[0].childNodes[0].textContent,
+                      color:node[0].childNodes[1].textContent
+                    });
+                }
+                
+                var edges=$xml.find("edge");
+                for(var i=0;i<edges.length;i++){
+                    var edge=$(edges[i]);
+                    //console.log(node);
+                    //console.log(node[0].attributes[0].value); 
+                    //console.log(node[0].childNodes[0].textContent);
+                    gedges.add({
+                      from:edge[0].attributes[1].value,
+                      to:edge[0].attributes[2].value,
+                      label:edge[0].childNodes[0].textContent,
+                      arrows:"to"
+                    });
+                }
+                
+            }
+          });
+
+          $.ajax({
+            dataType: "xml",
+            url: "relations_sentence.php",
+            method:"POST",
+            data:{
+              "text":data
+            },
+            success: function(data){
+                //console.log(data);
+                // create an array with nodes
+                var gnodes = new vis.DataSet([]);
+              
+                // create an array with edges
+                var gedges = new vis.DataSet([]);
+
+                // create a network
+                var container = document.getElementById('relations_sent');
+                var gdata = {
+                  nodes: gnodes,
+                  edges: gedges
+                };
+                var options = {};
+                var network = new vis.Network(container, gdata, options);
+                
+                $xml = $( data );
+                var nodes=$xml.find("node");
+                for(var i=0;i<nodes.length;i++){
+                    var node=$(nodes[i]);
+                    //console.log(node);
+                    //console.log(node[0].attributes[0].value); 
+                    //console.log(node[0].childNodes[0].textContent);
+                    gnodes.add({
+                      id:node[0].attributes[0].value,
+                      label:node[0].childNodes[0].textContent,
+                      //color:node[0].childNodes[1].textContent
+                    });
+                }
+                
+                var edges=$xml.find("edge");
+                for(var i=0;i<edges.length;i++){
+                    var edge=$(edges[i]);
+                    //console.log(node);
+                    //console.log(node[0].attributes[0].value); 
+                    //console.log(node[0].childNodes[0].textContent);
+                    gedges.add({
+                      from:edge[0].attributes[1].value,
+                      to:edge[0].attributes[2].value,
+                      //label:edge[0].childNodes[0].textContent,
+                      //arrows:"to"
+                    });
+                }
+                
+            }
+          });
+
+      }
+    });
+    
+    return false;
+}
+
+</script>
+
+</body>
+
+</html>

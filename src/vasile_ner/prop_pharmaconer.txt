@@ -1,0 +1,33 @@
+trainFile = pharmaconer.stanford
+serializeTo = pharmaconer.4.ser.gz
+saveFeatureIndexToDisk = true
+
+map = word=0,lemma=1,tag=2,answer=3
+
+useGazettes=true
+gazette=gazette.stanford
+
+useClassFeature=true
+useWord=true
+useNGrams=true
+noMidNGrams=true
+maxNGramLeng=6
+usePrev=true
+useNext=true
+useSequences=true
+usePrevSequences=true
+maxLeft=4
+maxRight=4
+useTypeSeqs=true
+useTypeSeqs2=true
+useTypeySequences=true
+wordShape=chris2useLC
+useDisjunctive=true
+useLemmas=true
+usePrevNextLemmas=true
+useTags=true
+usePosition=true
+
+useEmbedding=true
+embeddingWords=spanish.words
+embeddingVectors=spanish.vectors

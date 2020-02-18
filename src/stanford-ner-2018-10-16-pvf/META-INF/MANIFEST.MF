@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Version: 3.9.2
+Built-Date: 2018-10-16
+Created-By: Stanford JavaNLP (jebolton)
+

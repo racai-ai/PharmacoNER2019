@@ -1,0 +1,96 @@
+{"rules":[
+
+{
+    "match":[
+      {"word":"hemoglobina|enolasa|insulina|queratina|mucina|lipasa|colágeno","id":"0"}
+    ],
+    "result":[{"id":"0","type":"PROTEINAS"}]
+},
+
+
+{
+    "match":[
+      {"word":"análogos","id":"0"},
+      {"word":"de","id":"0"},
+      {"word":"la","min":0,"id":"0"},
+      {"word":"::UPPERCASE","id":"1"}
+    ],
+    "result":[{"id":"0","type":"O"},{"id":"1","type":"PROTEINAS"}]
+},
+
+{
+    "match":[
+      {"lemma":"antígeno|antígena|antigen|antigena","id":"0"},
+      {"word":"!::LOWERCASE","id":"0"}
+    ],
+    "result":[{"id":"0","type":"PROTEINAS"}]
+},
+
+{
+    "match":[
+      {"ner":"PROTEINAS","max":1},
+      {"word":"=LRB="},
+      {"and":[{"word":"!=RRB="},{"word":"!::LOWERCASE"}],"id":0},
+      {"word":"=RRB="}
+    ],
+    "result":[{"id":"0","type":"PROTEINAS"}]
+},
+
+{
+    "match":[
+      {"ner":"PROTEINAS","max":1},
+      {"word":"y"},
+      {"word":"!::LOWERCASE","ner":"O","id":0}
+    ],
+    "result":[{"id":"0","type":"PROTEINAS"}]
+},
+
+{
+    "match":[
+      {"word":"!::LOWERCASE","ner":"O","id":0},
+      {"word":"y"},
+      {"ner":"PROTEINAS","max":1}
+    ],
+    "result":[{"id":"0","type":"PROTEINAS"}]
+},
+
+{
+    "match":[
+      {"word":"combinación"},
+      {"ner":"PROTEINAS"},
+      {"word":"-"},
+      {"ner":"O","max":1,"id":0}
+    ],
+    "result":[{"id":"0","type":"PROTEINAS"}]
+},
+
+{
+    "match":[
+      {"word":"combinación"},
+      {"ner":"O","max":1,"id":0},
+      {"word":"-"},
+      {"ner":"PROTEINAS"}
+    ],
+    "result":[{"id":"0","type":"PROTEINAS"}]
+},
+
+{
+    "match":[
+      {"word":","},
+      {"ner":"O","max":3,"id":0},
+      {"word":"proteína","id":0},
+      {"msd":"PUNCT"}
+    ],
+    "result":[{"id":"0","type":"PROTEINAS"}]
+},
+
+{
+    "match":[
+      {"word":"alfa|alpha|beta","id":"0"},
+      {"word":"-","id":"0"},
+      {"ner":"PROTEINAS","max":1}
+    ],
+    "result":[{"id":"0","type":"PROTEINAS"}]
+}
+
+]}

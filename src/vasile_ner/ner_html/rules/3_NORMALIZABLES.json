@@ -1,0 +1,26 @@
+{"rules":[
+
+{
+    "match":[
+      {"ner":"NORMALIZABLES"},
+      {"word":","},
+      {"ner":"NORMALIZABLES"},
+      {"word":",|y|e"},
+      {"ner":"PROTEINAS|UNCLEAR","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"vitamina"},
+      {"word":"!=LRB=","min":"0"},
+      {"word":"=LRB="},
+      {"word":"!=RRB=","max":"3","id":"0"},
+      {"word":"=RRB="}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+}
+
+
+]}

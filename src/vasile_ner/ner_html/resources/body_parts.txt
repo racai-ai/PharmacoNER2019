@@ -1,0 +1,35 @@
+cuerpo = body; cuero cabelludo = scalp; cabeza = head
+
+cerebro = brain; oreja = ear; cara = face; mandíbula = jaw
+
+nuca = back of neck; cuello = neck; laringe = larynx
+
+glándula tiroides = thyroid gland; tráquea = trachea; hombro = shoulder
+
+clavícula = clavicle; arteria = artery; costilla = rib; pulmón = lung
+
+corazón = heart; músculo = muscle; pecho = chest; brazo = arm
+
+vena = vein; axila = axilla; hígado = liver
+
+bazo = spleen; estómago = stomach; riñón = kidney
+
+vesícula biliar = gall bladder; páncreas = pancreas; codo = elbow
+
+antebrazo = forearm; barriga = belly (abdomen); apéndice = appendix
+
+tendón = tendon; vejiga = bladder; pelvis = pelvis; cadera = hip
+
+muñeca = wrist; mano = hand; pulgar = thumb; palma = palm
+
+índice = index finger; dedo = finger; diafragma = diaphragm
+
+intestino grueso = thick (large) intestine; nervio = nerve
+
+ganglio linfático = lymph node; intestino delgado = thin (small) intestine
+
+muslo = thigh; ingle = groin; rodilla = knee; pierna = leg; espinilla = shin
+
+hueso = bone; articulación = joint; tobillo = ankle; talón = heel
+
+pie = foot; dedos del pie = toes; uña = nail; pantorrilla = calf

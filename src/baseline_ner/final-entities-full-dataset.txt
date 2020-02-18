@@ -1,0 +1,2058 @@
+    123 NORMALIZABLES	creatinina
+     72 NORMALIZABLES	corticoides
+     71 PROTEINAS	hemoglobina
+     67 NORMALIZABLES	prednisona
+     53 PROTEINAS	Hb
+     51 PROTEINAS	PCR
+     46 PROTEINAS	PSA
+     46 PROTEINAS	LDH
+     43 NORMALIZABLES	calcio
+     39 NORMALIZABLES	urea
+     38 PROTEINAS	albúmina
+     38 NORMALIZABLES	glucosa
+     32 UNCLEAR	cigarrillos
+     31 PROTEINAS	IgM
+     31 NORMALIZABLES	oxígeno
+     30 NORMALIZABLES	bilirrubina
+     28 PROTEINAS	GPT
+     26 PROTEINAS	GGT
+     25 PROTEINAS	IgG
+     25 PROTEINAS	GOT
+     24 NORMALIZABLES	ST
+     24 NORMALIZABLES	potasio
+     23 PROTEINAS	ANA
+     23 NORMALIZABLES	sodio
+     23 NORMALIZABLES	fentanilo
+     22 PROTEINAS	proteínas
+     22 NORMALIZABLES	omeprazol
+     22 NORMALIZABLES	bicarbonato
+     21 PROTEINAS	transaminasas
+     21 NORMALIZABLES	vancomicina
+     21 NORMALIZABLES	NPT
+     21 NORMALIZABLES	K
+     21 NORMALIZABLES	colesterol
+     20 UNCLEAR	alcohol
+     20 NORMALIZABLES	paracetamol
+     20 NORMALIZABLES	dexametasona
+     20 NORMALIZABLES	aciclovir
+     19 UNCLEAR	tóxicos
+     19 PROTEINAS	C3
+     18 PROTEINAS	proteínas totales
+     18 PROTEINAS	proteína C reactiva
+     18 PROTEINAS	amilasa
+     18 PROTEINAS	actina
+     18 NORMALIZABLES	sertralina
+     18 NORMALIZABLES	Na
+     17 PROTEINAS	vimentina
+     17 PROTEINAS	protrombina
+     17 NORMALIZABLES	metilprednisolona
+     17 NORMALIZABLES	hierro
+     17 NORMALIZABLES	fósforo
+     16 PROTEINAS	VEB
+     16 PROTEINAS	inmunoglobulinas
+     16 NORMALIZABLES	morfina
+     15 PROTEINAS	TSH
+     15 PROTEINAS	IgA
+     15 PROTEINAS	CEA
+     15 NORMALIZABLES	vitamina D
+     15 NORMALIZABLES	suero
+     15 NORMALIZABLES	acenocumarol
+     14 PROTEINAS	reactantes de fase aguda
+     14 PROTEINAS	fosfatasa alcalina
+     14 PROTEINAS	factor reumatoide
+     14 PROTEINAS	C4
+     14 NORMALIZABLES	triglicéridos
+     14 NORMALIZABLES	azatioprina
+     14 NORMALIZABLES	ácido acetilsalicílico
+     13 PROTEINAS	FA
+     13 PROTEINAS	anticuerpos antinucleares
+     13 NORMALIZABLES	rifampicina
+     13 NORMALIZABLES	P
+     13 NORMALIZABLES	magnesio
+     12 PROTEINAS	CD4
+     12 NORMALIZABLES	silicona
+     12 NORMALIZABLES	O2
+     12 NORMALIZABLES	midazolam
+     12 NORMALIZABLES	metformina
+     12 NORMALIZABLES	levofloxacino
+     12 NORMALIZABLES	enalapril
+     12 NORMALIZABLES	Creatinina
+     12 NORMALIZABLES	corticoide
+     12 NORMALIZABLES	cisplatino
+     11 PROTEINAS	fibrinógeno
+     11 PROTEINAS	ferritina
+     11 PROTEINAS	ANCA
+     11 NORMALIZABLES	tramadol
+     11 NORMALIZABLES	tacrolimus
+     11 NORMALIZABLES	pregabalina
+     11 NORMALIZABLES	noradrenalina
+     11 NORMALIZABLES	lidocaína
+     11 NORMALIZABLES	cadmio
+     11 NORMALIZABLES	Ca
+     11 NORMALIZABLES	bupivacaína
+     11 NORMALIZABLES	amoxicilina-clavulánico
+     11 NORMALIZABLES	ácido fólico
+     10 PROTEINAS	S-100
+     10 PROTEINAS	CK
+     10 PROTEINAS	ALT
+     10 PROTEINAS	alfafetoproteína
+     10 PROTEINAS	AFP
+     10 NORMALIZABLES	suero fisiológico
+     10 NORMALIZABLES	PAS
+     10 NORMALIZABLES	Mg
+     10 NORMALIZABLES	ibuprofeno
+     10 NORMALIZABLES	hormonas tiroideas
+     10 NORMALIZABLES	furosemida
+     10 NORMALIZABLES	esteroides
+     10 NORMALIZABLES	Cr
+     10 NORMALIZABLES	cocaína
+     10 NORMALIZABLES	ciprofloxacino
+     10 NORMALIZABLES	ciclofosfamida
+     10 NORMALIZABLES	cefepime
+     10 NORMALIZABLES	atenolol
+     10 NORMALIZABLES	antiinflamatorios no esteroideos
+      9 UNCLEAR	drogas
+      9 PROTEINAS	TG
+      9 PROTEINAS	insulina
+      9 PROTEINAS	fibrina
+      9 PROTEINAS	complemento
+      9 PROTEINAS	colágeno
+      9 PROTEINAS	AST
+      9 NORMALIZABLES	tobramicina
+      9 NORMALIZABLES	opioide
+      9 NORMALIZABLES	metamizol
+      9 NORMALIZABLES	meropenem
+      9 NORMALIZABLES	gentamicina
+      9 NORMALIZABLES	gadolinio
+      9 NORMALIZABLES	espironolactona
+      9 NORMALIZABLES	cobre
+      9 NORMALIZABLES	cloxacilina
+      9 NORMALIZABLES	carbonato cálcico
+      9 NORMALIZABLES	amoxicilina
+      9 NORMALIZABLES	amlodipino
+      8 UNCLEAR	gluten
+      8 PROTEINAS	rituximab
+      8 PROTEINAS	enzimas hepáticas
+      8 PROTEINAS	EMA
+      8 PROTEINAS	desmina
+      8 PROTEINAS	CPK
+      8 PROTEINAS	AE1
+      8 NORMALIZABLES	vitamina B12
+      8 NORMALIZABLES	Urea
+      8 NORMALIZABLES	talidomida
+      8 NORMALIZABLES	metronidazol
+      8 NORMALIZABLES	lípidos
+      8 NORMALIZABLES	isoniacida
+      8 NORMALIZABLES	heparina
+      8 NORMALIZABLES	HCO3
+      8 NORMALIZABLES	etopósido
+      8 NORMALIZABLES	enoxaparina
+      8 NORMALIZABLES	diazepam
+      8 NORMALIZABLES	cortisol
+      8 NORMALIZABLES	ceftriaxona
+      8 NORMALIZABLES	carboplatino
+      8 NORMALIZABLES	adriamicina
+      8 NORMALIZABLES	ácido valproico
+      7 PROTEINAS	PTH
+      7 PROTEINAS	LH
+      7 PROTEINAS	kappa
+      7 PROTEINAS	gammaglobulina
+      7 PROTEINAS	crioglobulinas
+      7 PROTEINAS	CD56
+      7 PROTEINAS	ASLO
+      7 PROTEINAS	amiloide
+      7 PROTEINAS	AE3
+      7 NORMALIZABLES	vitaminas
+      7 NORMALIZABLES	tiamina
+      7 NORMALIZABLES	propofol
+      7 NORMALIZABLES	pirazinamida
+      7 NORMALIZABLES	oligoelementos
+      7 NORMALIZABLES	nitritos
+      7 NORMALIZABLES	metanefrinas
+      7 NORMALIZABLES	mercurio
+      7 NORMALIZABLES	levotiroxina
+      7 NORMALIZABLES	ketamina
+      7 NORMALIZABLES	FiO2
+      7 NORMALIZABLES	Durogesic
+      7 NORMALIZABLES	cefotaxima
+      7 NORMALIZABLES	catecolaminas
+      7 NORMALIZABLES	BCG
+      7 NORMALIZABLES	atropina
+      7 NORMALIZABLES	argón
+      7 NO_NORMALIZABLES	ácido
+      6 PROTEINAS	proteína S-100
+      6 PROTEINAS	Ki67
+      6 PROTEINAS	IgG4
+      6 PROTEINAS	IgE
+      6 PROTEINAS	HMB45
+      6 PROTEINAS	HLA
+      6 PROTEINAS	FR
+      6 PROTEINAS	citoqueratinas
+      6 PROTEINAS	CD8
+      6 PROTEINAS	CD20
+      6 PROTEINAS	bomba de protones
+      6 PROTEINAS	beta-HCG
+      6 PROTEINAS	anticuerpos anticardiolipina
+      6 PROTEINAS	AA
+      6 NORMALIZABLES	voriconazol
+      6 NORMALIZABLES	triamcinolona
+      6 NORMALIZABLES	titanio
+      6 NORMALIZABLES	testosterona
+      6 NORMALIZABLES	T3
+      6 NORMALIZABLES	suero salino
+      6 NORMALIZABLES	seda
+      6 NORMALIZABLES	Rifampicina
+      6 NORMALIZABLES	Prednisona
+      6 NORMALIZABLES	plata
+      6 NORMALIZABLES	oxaliplatino
+      6 NORMALIZABLES	opioides
+      6 NORMALIZABLES	micofenolato
+      6 NORMALIZABLES	metotrexate
+      6 NORMALIZABLES	imatinib
+      6 NORMALIZABLES	hidroclorotiazida
+      6 NORMALIZABLES	hematoxilina
+      6 NORMALIZABLES	ganciclovir
+      6 NORMALIZABLES	fluoresceína
+      6 NORMALIZABLES	fenitoína
+      6 NORMALIZABLES	etanercept
+      6 NORMALIZABLES	eosina
+      6 NORMALIZABLES	docetaxel
+      6 NORMALIZABLES	Crs
+      6 NORMALIZABLES	cotrimoxazol
+      6 NORMALIZABLES	CO2
+      6 NORMALIZABLES	Ciclofosfamida
+      6 NORMALIZABLES	bendamustina
+      6 NORMALIZABLES	ampicilina
+      6 NORMALIZABLES	amonio
+      6 NORMALIZABLES	AINES
+      6 NORMALIZABLES	ácido úrico
+      5 UNCLEAR	EMLA
+      5 PROTEINAS	transferrina
+      5 PROTEINAS	renina
+      5 PROTEINAS	prolactina
+      5 PROTEINAS	prealbúmina
+      5 PROTEINAS	PCT
+      5 PROTEINAS	lambda
+      5 PROTEINAS	iPTH
+      5 PROTEINAS	Infliximab
+      5 PROTEINAS	IGs
+      5 PROTEINAS	gamma
+      5 PROTEINAS	Factor VIII
+      5 PROTEINAS	CD34
+      5 PROTEINAS	CD 20
+      5 PROTEINAS	canakinumab
+      5 PROTEINAS	anticoagulante lúpico
+      5 PROTEINAS	angiotensina
+      5 NORMALIZABLES	zinc
+      5 NORMALIZABLES	vitamina A
+      5 NORMALIZABLES	Vincristina
+      5 NORMALIZABLES	vincristina
+      5 NORMALIZABLES	Vancomicina
+      5 NORMALIZABLES	tolvaptan
+      5 NORMALIZABLES	T4
+      5 NORMALIZABLES	solución salina
+      5 NORMALIZABLES	Sintrom
+      5 NORMALIZABLES	simvastatina
+      5 NORMALIZABLES	RBV
+      5 NORMALIZABLES	naproxeno
+      5 NORMALIZABLES	Gentamicina
+      5 NORMALIZABLES	fosfato
+      5 NORMALIZABLES	etambutol
+      5 NORMALIZABLES	estireno
+      5 NORMALIZABLES	dobutamina
+      5 NORMALIZABLES	dasatinib
+      5 NORMALIZABLES	clorhexidina
+      5 NORMALIZABLES	Clindamicina
+      5 NORMALIZABLES	clindamicina
+      5 NORMALIZABLES	claritromicina
+      5 NORMALIZABLES	Cl
+      5 NORMALIZABLES	Cisplatino
+      5 NORMALIZABLES	Ciprofloxacino
+      5 NORMALIZABLES	cidofovir
+      5 NORMALIZABLES	ciclosporina
+      5 NORMALIZABLES	calcitriol
+      5 NORMALIZABLES	CA
+      5 NORMALIZABLES	benzodiacepinas
+      5 NORMALIZABLES	azul de metileno
+      5 NORMALIZABLES	anfotericina B liposomal
+      5 NORMALIZABLES	amoxicilina/ácido clavulánico
+      5 NORMALIZABLES	alopurinol
+      5 NORMALIZABLES	aldosterona
+      5 NORMALIZABLES	AINE
+      5 NORMALIZABLES	acetazolamida
+      4 UNCLEAR	cannabis
+      4 PROTEINAS	Vimentina
+      4 PROTEINAS	tromboplastina
+      4 PROTEINAS	somatostatina
+      4 PROTEINAS	RNA
+      4 PROTEINAS	Proteína C reactiva
+      4 PROTEINAS	proteína
+      4 PROTEINAS	polimerasa
+      4 PROTEINAS	metahemoglobina
+      4 PROTEINAS	interferón
+      4 PROTEINAS	Hemoglobina
+      4 PROTEINAS	HCG
+      4 PROTEINAS	Fr
+      4 PROTEINAS	factor V
+      4 PROTEINAS	eritropoyetina
+      4 PROTEINAS	enzimas pancreáticas
+      4 PROTEINAS	CD45
+      4 PROTEINAS	CD10
+      4 PROTEINAS	CAM5.2
+      4 PROTEINAS	bevacizumab
+      4 PROTEINAS	beta
+      4 PROTEINAS	antitrombina III
+      4 PROTEINAS	antígeno carcinoembrionario
+      4 PROTEINAS	antifosfolípido
+      4 PROTEINAS	anticuerpos antitiroglobulina
+      4 PROTEINAS	anticardiolipina
+      4 PROTEINAS	ADN
+      4 PROTEINAS	Actina
+      4 PROTEINAS	AAT
+      4 NORMALIZABLES	verde de indocianina
+      4 NORMALIZABLES	Urbason
+      4 NORMALIZABLES	urato
+      4 NORMALIZABLES	torasemida
+      4 NORMALIZABLES	Telaprevir
+      4 NORMALIZABLES	T4l
+      4 NORMALIZABLES	Sodio
+      4 NORMALIZABLES	ropivacaína
+      4 NORMALIZABLES	remifentanilo
+      4 NORMALIZABLES	radioyodo
+      4 NORMALIZABLES	PTFE
+      4 NORMALIZABLES	Potasio
+      4 NORMALIZABLES	PMV
+      4 NORMALIZABLES	penicilina
+      4 NORMALIZABLES	paclitaxel
+      4 NORMALIZABLES	opiáceos
+      4 NORMALIZABLES	nitroglicerina
+      4 NORMALIZABLES	mórficos
+      4 NORMALIZABLES	Magnesio
+      4 NORMALIZABLES	linezolid
+      4 NORMALIZABLES	leflunomida
+      4 NORMALIZABLES	LDL
+      4 NORMALIZABLES	látex
+      4 NORMALIZABLES	labetalol
+      4 NORMALIZABLES	Imipenem
+      4 NORMALIZABLES	ifosfamida
+      4 NORMALIZABLES	heparina sódica
+      4 NORMALIZABLES	HC
+      4 NORMALIZABLES	HBPM
+      4 NORMALIZABLES	Glucosa
+      4 NORMALIZABLES	gemcitabina
+      4 NORMALIZABLES	formol
+      4 NORMALIZABLES	fluconazol
+      4 NORMALIZABLES	doxiciclina
+      4 NORMALIZABLES	CU
+      4 NORMALIZABLES	cloro
+      4 NORMALIZABLES	CDDP
+      4 NORMALIZABLES	carbamacepina
+      4 NORMALIZABLES	Calcio
+      4 NORMALIZABLES	bario
+      4 NORMALIZABLES	aspirina
+      4 NORMALIZABLES	amitriptilina
+      4 NORMALIZABLES	aminas
+      4 NORMALIZABLES	Amikacina
+      4 NORMALIZABLES	amikacina
+      4 NORMALIZABLES	alprazolam
+      4 NORMALIZABLES	albendazol
+      4 NORMALIZABLES	Adriamicina
+      4 NORMALIZABLES	adrenalina
+      4 NORMALIZABLES	acetaminofén
+      4 NORMALIZABLES	AAS
+      3 UNCLEAR	tabaco
+      3 UNCLEAR	melanina
+      3 UNCLEAR	marihuana
+      3 UNCLEAR	BEP
+      3 UNCLEAR	ABVD
+      3 PROTEINAS	tuberculina
+      3 PROTEINAS	TGP
+      3 PROTEINAS	TGO
+      3 PROTEINAS	ß-HCG
+      3 PROTEINAS	S100
+      3 PROTEINAS	RPR
+      3 PROTEINAS	Rituximab
+      3 PROTEINAS	ramucirumab
+      3 PROTEINAS	queratina
+      3 PROTEINAS	PTHi
+      3 PROTEINAS	Proteínas totales
+      3 PROTEINAS	pegIFN-α2a
+      3 PROTEINAS	parathormona
+      3 PROTEINAS	P53
+      3 PROTEINAS	mucina
+      3 PROTEINAS	lipasa
+      3 PROTEINAS	lactato deshidrogenasa
+      3 PROTEINAS	Ki-67
+      3 PROTEINAS	infliximab
+      3 PROTEINAS	HPA-1a
+      3 PROTEINAS	HLA B27
+      3 PROTEINAS	HbA1c
+      3 PROTEINAS	haptoglobina
+      3 PROTEINAS	GLA
+      3 PROTEINAS	GFAP
+      3 PROTEINAS	FSH
+      3 PROTEINAS	factor anti-Xa
+      3 PROTEINAS	enolasa
+      3 PROTEINAS	ENA
+      3 PROTEINAS	DQ2
+      3 PROTEINAS	Desmina
+      3 PROTEINAS	deshidrogenasa láctica
+      3 PROTEINAS	Cromogranina
+      3 PROTEINAS	creatinquinasa
+      3 PROTEINAS	CK20
+      3 PROTEINAS	ceruloplasmina
+      3 PROTEINAS	CD16
+      3 PROTEINAS	CD138
+      3 PROTEINAS	CD 4
+      3 PROTEINAS	cadenas ligeras
+      3 PROTEINAS	C4d
+      3 PROTEINAS	b-HCG
+      3 PROTEINAS	Beta-HCG
+      3 PROTEINAS	beta-gonadotropina coriónica
+      3 PROTEINAS	beta-2-microglobulina
+      3 PROTEINAS	Bence-Jones
+      3 PROTEINAS	BCL2
+      3 PROTEINAS	antimembrana basal
+      3 PROTEINAS	anti-DNA
+      3 PROTEINAS	anticuerpos antitransglutaminasa
+      3 PROTEINAS	anti-ADN
+      3 PROTEINAS	anhidrasa carbónica
+      3 PROTEINAS	alfa-fetoproteína
+      3 PROTEINAS	alfa-fetoproteina
+      3 PROTEINAS	alfa-feto proteína
+      3 PROTEINAS	aldolasa
+      3 PROTEINAS	Albúmina
+      3 PROTEINAS	adalimumab
+      3 PROTEINAS	A1AT
+      3 NORMALIZABLES	verapamilo
+      3 NORMALIZABLES	venlafaxina
+      3 NORMALIZABLES	valganciclovir
+      3 NORMALIZABLES	Triglicéridos
+      3 NORMALIZABLES	topiramato
+      3 NORMALIZABLES	Tc99
+      3 NORMALIZABLES	tamoxifeno
+      3 NORMALIZABLES	sulfato de zinc
+      3 NORMALIZABLES	solución fisiológica
+      3 NORMALIZABLES	sevelamer
+      3 NORMALIZABLES	salicilatos
+      3 NORMALIZABLES	Rosa de Bengala
+      3 NORMALIZABLES	risedronato
+      3 NORMALIZABLES	progesterona
+      3 NORMALIZABLES	pralidoxima
+      3 NORMALIZABLES	porfirinas
+      3 NORMALIZABLES	piperacilina-tazobactam
+      3 NORMALIZABLES	pentoxifilina
+      3 NORMALIZABLES	Paracetamol
+      3 NORMALIZABLES	OP
+      3 NORMALIZABLES	Omeprazol
+      3 NORMALIZABLES	nylon
+      3 NORMALIZABLES	nitratos
+      3 NORMALIZABLES	nitrato de plata
+      3 NORMALIZABLES	mivacurio
+      3 NORMALIZABLES	micofenolato mofetilo
+      3 NORMALIZABLES	metotrexato
+      3 NORMALIZABLES	metoclopramida
+      3 NORMALIZABLES	meticilin
+      3 NORMALIZABLES	mesalazina
+      3 NORMALIZABLES	MCT
+      3 NORMALIZABLES	maribavir
+      3 NORMALIZABLES	maleato de timolol
+      3 NORMALIZABLES	litio
+      3 NORMALIZABLES	levetiracetam
+      3 NORMALIZABLES	leucovorin
+      3 NORMALIZABLES	lactato
+      3 NORMALIZABLES	itraconazol
+      3 NORMALIZABLES	isoniazida
+      3 NORMALIZABLES	irbesartán
+      3 NORMALIZABLES	Hierro
+      3 NORMALIZABLES	heparina de bajo peso molecular
+      3 NORMALIZABLES	HDL
+      3 NORMALIZABLES	glucocorticoides
+      3 NORMALIZABLES	Gemcitabina
+      3 NORMALIZABLES	Furosemida
+      3 NORMALIZABLES	fosfomicina
+      3 NORMALIZABLES	fenilefrina
+      3 NORMALIZABLES	Etopósido
+      3 NORMALIZABLES	eltrombopag
+      3 NORMALIZABLES	dopamina
+      3 NORMALIZABLES	diclofenaco
+      3 NORMALIZABLES	dexketoprofeno-trometamol
+      3 NORMALIZABLES	Dexametasona
+      3 NORMALIZABLES	deflazacort
+      3 NORMALIZABLES	codeína
+      3 NORMALIZABLES	cloruro potásico
+      3 NORMALIZABLES	clorambucilo
+      3 NORMALIZABLES	Clorambucil
+      3 NORMALIZABLES	clonazepam
+      3 NORMALIZABLES	citalopram
+      3 NORMALIZABLES	ciclosporina A
+      3 NORMALIZABLES	cefalina
+      3 NORMALIZABLES	Carboplatino
+      3 NORMALIZABLES	capecitabina
+      3 NORMALIZABLES	calcio iónico corregido
+      3 NORMALIZABLES	azoados
+      3 NORMALIZABLES	atorvastatina
+      3 NORMALIZABLES	anfotericina B
+      3 NORMALIZABLES	amoxicilina/clavulánico
+      3 NORMALIZABLES	amiodarona
+      3 NORMALIZABLES	aminoácidos
+      3 NORMALIZABLES	alendronato
+      3 NORMALIZABLES	AINEs
+      3 NORMALIZABLES	adenosina
+      3 NORMALIZABLES	ácido láctico
+      3 NORMALIZABLES	5-FU
+      3 NO_NORMALIZABLES	Polytech
+      3 NO_NORMALIZABLES	pirazolonas
+      2 UNCLEAR	gramíneas
+      2 UNCLEAR	ESCHAP
+      2 UNCLEAR	cigarros
+      2 UNCLEAR	CHOP
+      2 PROTEINAS	β-HCG
+      2 PROTEINAS	α-FTP
+      2 PROTEINAS	ZFY
+      2 PROTEINAS	WT1
+      2 PROTEINAS	ureasa
+      2 PROTEINAS	TTF-1
+      2 PROTEINAS	TSI
+      2 PROTEINAS	TSHrh
+      2 PROTEINAS	troponina
+      2 PROTEINAS	trastuzumab
+      2 PROTEINAS	toxina botulínica
+      2 PROTEINAS	SRY
+      2 PROTEINAS	SLA
+      2 PROTEINAS	receptores hormonales
+      2 PROTEINAS	receptores de progesterona
+      2 PROTEINAS	receptores de estrógenos
+      2 PROTEINAS	ranibizumab
+      2 PROTEINAS	proteinas
+      2 PROTEINAS	proteína C
+      2 PROTEINAS	procalcitonina
+      2 PROTEINAS	precipitinas
+      2 PROTEINAS	PLAP
+      2 PROTEINAS	Pancrease
+      2 PROTEINAS	p63
+      2 PROTEINAS	LH-RH
+      2 PROTEINAS	LHRH
+      2 PROTEINAS	lh-rh
+      2 PROTEINAS	lactatodeshidrogenasa
+      2 PROTEINAS	Lactato deshidrogenasa
+      2 PROTEINAS	Kreón 10.000
+      2 PROTEINAS	KIT
+      2 PROTEINAS	Ki 67
+      2 PROTEINAS	ipilimumab
+      2 PROTEINAS	Interferón
+      2 PROTEINAS	IgG-Kappa
+      2 PROTEINAS	Ig M
+      2 PROTEINAS	IFN
+      2 PROTEINAS	HMB 45
+      2 PROTEINAS	HHF35
+      2 PROTEINAS	glucagón
+      2 PROTEINAS	gammaglutamiltranspeptidasa
+      2 PROTEINAS	gammaglobulinas
+      2 PROTEINAS	Gammaglobulina
+      2 PROTEINAS	Ferritina
+      2 PROTEINAS	FAL
+      2 PROTEINAS	Factor V
+      2 PROTEINAS	Factor reumatoide
+      2 PROTEINAS	factor II
+      2 PROTEINAS	enzimas de colestasis
+      2 PROTEINAS	enzima de conversión de la angiotensina
+      2 PROTEINAS	enolasa neuronal específica
+      2 PROTEINAS	ECR-NMDA
+      2 PROTEINAS	E1
+      2 PROTEINAS	Dímero D
+      2 PROTEINAS	diastasa
+      2 PROTEINAS	delta
+      2 PROTEINAS	cromosoma Y
+      2 PROTEINAS	COL1A1
+      2 PROTEINAS	C-Kit
+      2 PROTEINAS	c-KIT
+      2 PROTEINAS	citoqueratina 7
+      2 PROTEINAS	citoqueratina 20
+      2 PROTEINAS	CD68
+      2 PROTEINAS	CD31
+      2 PROTEINAS	CD3
+      2 PROTEINAS	CD1a
+      2 PROTEINAS	CD117
+      2 PROTEINAS	CD 8
+      2 PROTEINAS	CD 68
+      2 PROTEINAS	CD 34
+      2 PROTEINAS	CD 3
+      2 PROTEINAS	CD 117
+      2 PROTEINAS	CD 10
+      2 PROTEINAS	C-ANCA
+      2 PROTEINAS	calcitonina
+      2 PROTEINAS	CA125
+      2 PROTEINAS	Ca 19.9
+      2 PROTEINAS	CA 15,3
+      2 PROTEINAS	CA 125
+      2 PROTEINAS	Ca 125
+      2 PROTEINAS	C1q
+      2 PROTEINAS	BCL6
+      2 PROTEINAS	bcl2
+      2 PROTEINAS	B7
+      2 PROTEINAS	B27
+      2 PROTEINAS	AZFc
+      2 PROTEINAS	AZFb
+      2 PROTEINAS	AZFa
+      2 PROTEINAS	aspartato aminotransferasa
+      2 PROTEINAS	antitransglutaminasa
+      2 PROTEINAS	anti-Ro
+      2 PROTEINAS	antiperoxidasa
+      2 PROTEINAS	anti-Hu
+      2 PROTEINAS	Antígeno Prostático Específico
+      2 PROTEINAS	antígeno galactomanano
+      2 PROTEINAS	antígeno estreptocócico
+      2 PROTEINAS	anticuerpos anti-VIH
+      2 PROTEINAS	anticuerpos antiestreptolisina O
+      2 PROTEINAS	anticuerpos anti-DNA
+      2 PROTEINAS	anticuerpos anticitoplasma del neutrófilo
+      2 PROTEINAS	anticuerpos anticitoplasma de neutrófilos
+      2 PROTEINAS	anti-CD20
+      2 PROTEINAS	anticardiolipinas
+      2 PROTEINAS	Amilasa
+      2 PROTEINAS	AMA
+      2 PROTEINAS	ama
+      2 PROTEINAS	alfafetoproteina
+      2 PROTEINAS	ALAT
+      2 PROTEINAS	alanina aminotransferasa
+      2 PROTEINAS	AgHBs
+      2 NORMALIZABLES	ZNS
+      2 NORMALIZABLES	vitaminas liposolubles
+      2 NORMALIZABLES	Viscofresh
+      2 NORMALIZABLES	vigabatrina
+      2 NORMALIZABLES	Vicryl
+      2 NORMALIZABLES	valproico
+      2 NORMALIZABLES	Uracilo
+      2 NORMALIZABLES	TVR
+      2 NORMALIZABLES	triglicéridos de cadena media
+      2 NORMALIZABLES	Tramadol
+      2 NORMALIZABLES	Topamax
+      2 NORMALIZABLES	tinción de Gram
+      2 NORMALIZABLES	tinazidina
+      2 NORMALIZABLES	Timolol
+      2 NORMALIZABLES	timolol
+      2 NORMALIZABLES	Timoftol
+      2 NORMALIZABLES	tiapride
+      2 NORMALIZABLES	tetraciclinas
+      2 NORMALIZABLES	tenofovir
+      2 NORMALIZABLES	tenecteplasa
+      2 NORMALIZABLES	TDF
+      2 NORMALIZABLES	TCM
+      2 NORMALIZABLES	taxol
+      2 NORMALIZABLES	talco
+      2 NORMALIZABLES	T4 Libre
+      2 NORMALIZABLES	Surgicel
+      2 NORMALIZABLES	sulfato de magnesio
+      2 NORMALIZABLES	sucralfato
+      2 NORMALIZABLES	solución antiséptica
+      2 NORMALIZABLES	SF6
+      2 NORMALIZABLES	salino
+      2 NORMALIZABLES	salbutamol
+      2 NORMALIZABLES	Rojo Congo
+      2 NORMALIZABLES	rojo congo
+      2 NORMALIZABLES	Rivaroxabán
+      2 NORMALIZABLES	ritonavir
+      2 NORMALIZABLES	Riluzol
+      2 NORMALIZABLES	ramipril
+      2 NORMALIZABLES	raltegravir
+      2 NORMALIZABLES	prostaglandinas
+      2 NORMALIZABLES	Prolene
+      2 NORMALIZABLES	Progesterona
+      2 NORMALIZABLES	prilocaína
+      2 NORMALIZABLES	Prednisona Alonga
+      2 NORMALIZABLES	pravastatina
+      2 NORMALIZABLES	posaconazol
+      2 NORMALIZABLES	Polimixina
+      2 NORMALIZABLES	platino
+      2 NORMALIZABLES	Pirazinamida
+      2 NORMALIZABLES	pilocarpina
+      2 NORMALIZABLES	penicilina oral
+      2 NORMALIZABLES	parafina
+      2 NORMALIZABLES	PaO2
+      2 NORMALIZABLES	pantoprazol
+      2 NORMALIZABLES	pamidronato
+      2 NORMALIZABLES	Paclitaxel
+      2 NORMALIZABLES	oxcarbazepina
+      2 NORMALIZABLES	oseltamivir
+      2 NORMALIZABLES	olanzapina
+      2 NORMALIZABLES	Neuropatch
+      2 NORMALIZABLES	neomicina
+      2 NORMALIZABLES	nadolol
+      2 NORMALIZABLES	MST
+      2 NORMALIZABLES	moxifloxacino
+      2 NORMALIZABLES	MMF
+      2 NORMALIZABLES	MMC
+      2 NORMALIZABLES	mirtazapina
+      2 NORMALIZABLES	micofenolato mofetil
+      2 NORMALIZABLES	Metotrexate
+      2 NORMALIZABLES	metimazol
+      2 NORMALIZABLES	meticilín
+      2 NORMALIZABLES	Mesna
+      2 NORMALIZABLES	Meropenem
+      2 NORMALIZABLES	losartán
+      2 NORMALIZABLES	Loperamida
+      2 NORMALIZABLES	limonada alcalina
+      2 NORMALIZABLES	letrozol
+      2 NORMALIZABLES	lanreótido
+      2 NORMALIZABLES	K+
+      2 NORMALIZABLES	Isoniacida
+      2 NORMALIZABLES	imipenen
+      2 NORMALIZABLES	Ifosfamida
+      2 NORMALIZABLES	I131
+      2 NORMALIZABLES	His
+      2 NORMALIZABLES	hidrogel
+      2 NORMALIZABLES	hidratos de carbono
+      2 NORMALIZABLES	hidantoína
+      2 NORMALIZABLES	heparina no fraccionada
+      2 NORMALIZABLES	hemosiderina
+      2 NORMALIZABLES	hemina
+      2 NORMALIZABLES	Goretex
+      2 NORMALIZABLES	gencitabina
+      2 NORMALIZABLES	Gelfoam
+      2 NORMALIZABLES	Ganciclovir
+      2 NORMALIZABLES	fosfato monopotásico
+      2 NORMALIZABLES	foscarnet
+      2 NORMALIZABLES	formalina
+      2 NORMALIZABLES	flutamida
+      2 NORMALIZABLES	fludocortisona
+      2 NORMALIZABLES	Fludarabin
+      2 NORMALIZABLES	flecainida
+      2 NORMALIZABLES	filgrastim
+      2 NORMALIZABLES	FE
+      2 NORMALIZABLES	famciclovir
+      2 NORMALIZABLES	etilefrina
+      2 NORMALIZABLES	etanol
+      2 NORMALIZABLES	estrógenos
+      2 NORMALIZABLES	estreptomicina
+      2 NORMALIZABLES	esteroide
+      2 NORMALIZABLES	eritromicina
+      2 NORMALIZABLES	epinefrina
+      2 NORMALIZABLES	ebastina
+      2 NORMALIZABLES	duloxetina
+      2 NORMALIZABLES	doxorrubicina
+      2 NORMALIZABLES	domperidona
+      2 NORMALIZABLES	distraneurine
+      2 NORMALIZABLES	dicumarínicos
+      2 NORMALIZABLES	diacepam
+      2 NORMALIZABLES	dextrosa
+      2 NORMALIZABLES	dextrometorfano
+      2 NORMALIZABLES	dexketoprofeno
+      2 NORMALIZABLES	desmopresina
+      2 NORMALIZABLES	desketoprofeno
+      2 NORMALIZABLES	Dacarbacina
+      2 NORMALIZABLES	D4T
+      2 NORMALIZABLES	cuerpos cetónicos
+      2 NORMALIZABLES	creatininas
+      2 NORMALIZABLES	Creatina
+      2 NORMALIZABLES	colistina
+      2 NORMALIZABLES	Colesterol
+      2 NORMALIZABLES	Colecalciferol
+      2 NORMALIZABLES	cobalto-60
+      2 NORMALIZABLES	clotrimazol
+      2 NORMALIZABLES	clopidogrel
+      2 NORMALIZABLES	cisatracurio
+      2 NORMALIZABLES	cinitaprida
+      2 NORMALIZABLES	cinacalcet
+      2 NORMALIZABLES	cefuroxima-axetilo
+      2 NORMALIZABLES	cefuroxima axetil
+      2 NORMALIZABLES	Ceftriaxona
+      2 NORMALIZABLES	ceftazidima
+      2 NORMALIZABLES	cefazolina
+      2 NORMALIZABLES	carbón activado
+      2 NORMALIZABLES	carbimazol
+      2 NORMALIZABLES	carbamazepina
+      2 NORMALIZABLES	captopril
+      2 NORMALIZABLES	capsaicina
+      2 NORMALIZABLES	candesartán
+      2 NORMALIZABLES	Calcitriol
+      2 NORMALIZABLES	BUN
+      2 NORMALIZABLES	bromazepam
+      2 NORMALIZABLES	brivudina
+      2 NORMALIZABLES	brinzolamida
+      2 NORMALIZABLES	brimonidina
+      2 NORMALIZABLES	Bleomicina
+      2 NORMALIZABLES	bisoprolol
+      2 NORMALIZABLES	Bilirrubinas
+      2 NORMALIZABLES	bifosfonatos
+      2 NORMALIZABLES	bicarbonato sódico
+      2 NORMALIZABLES	Bicalutamida
+      2 NORMALIZABLES	betametasona
+      2 NORMALIZABLES	betahistina
+      2 NORMALIZABLES	B12
+      2 NORMALIZABLES	Azopt
+      2 NORMALIZABLES	Atropina
+      2 NORMALIZABLES	aspirinas
+      2 NORMALIZABLES	APC
+      2 NORMALIZABLES	amoxicilina-ácido clavulánico
+      2 NORMALIZABLES	Amoxicilina
+      2 NORMALIZABLES	Alopurinol
+      2 NORMALIZABLES	alfacalcidol
+      2 NORMALIZABLES	Adolonta
+      2 NORMALIZABLES	Adamín G
+      2 NORMALIZABLES	Ácido úrico
+      2 NORMALIZABLES	ácido poliglicólico
+      2 NORMALIZABLES	ácido micofenólico
+      2 NORMALIZABLES	Aciclovir
+      2 NORMALIZABLES	acarbosa
+      2 NORMALIZABLES	99Tc
+      2 NORMALIZABLES	6-metilprednisolona
+      2 NORMALIZABLES	5FU
+      2 NORMALIZABLES	5-fluorouracilo
+      2 NORMALIZABLES	5-ASA
+      2 NORMALIZABLES	5 fluorouracilo
+      2 NORMALIZABLES	3TC
+      2 NORMALIZABLES	25-hidroxivitamina D
+      2 NORMALIZABLES	25-HCC
+      2 NO_NORMALIZABLES	Strattice
+      2 NO_NORMALIZABLES	Nd:YAG
+      2 NO_NORMALIZABLES	Addamel
+      1 UNCLEAR	vaselina salicílica
+      1 UNCLEAR	vacuna antituberculosa
+      1 UNCLEAR	vacuna antitetánica
+      1 UNCLEAR	R-CHOP
+      1 UNCLEAR	olivo
+      1 UNCLEAR	MOPP
+      1 UNCLEAR	mFOLFOX 6
+      1 UNCLEAR	Isoplasmar G
+      1 UNCLEAR	FOLFOX
+      1 UNCLEAR	FOLFORI
+      1 UNCLEAR	FOLFIRI
+      1 UNCLEAR	FMD
+      1 UNCLEAR	FEC 75
+      1 UNCLEAR	ERORH
+      1 UNCLEAR	EPOCH-R
+      1 UNCLEAR	EOX
+      1 UNCLEAR	C-VAD
+      1 UNCLEAR	COPP
+      1 UNCLEAR	CMF
+      1 UNCLEAR	cig
+      1 UNCLEAR	CHOP-R
+      1 UNCLEAR	BEACOPP
+      1 PROTEINAS	γGT
+      1 PROTEINAS	β-lactamasa de espectro extendido
+      1 PROTEINAS	αFP
+      1 PROTEINAS	α-amilasa
+      1 PROTEINAS	XLRS
+      1 PROTEINAS	vicentina
+      1 PROTEINAS	VEB IgG
+      1 PROTEINAS	VCA IgM
+      1 PROTEINAS	VCA IgG
+      1 PROTEINAS	TTG
+      1 PROTEINAS	troponina I
+      1 PROTEINAS	treonina
+      1 PROTEINAS	transferina
+      1 PROTEINAS	Transaminasas
+      1 PROTEINAS	Transaminasa glutámico-pirúvica
+      1 PROTEINAS	transaminasa glutámico-pirúvica
+      1 PROTEINAS	Transaminasa glutámico-oxalacética
+      1 PROTEINAS	transaminasa glutámico-oxalacética
+      1 PROTEINAS	TPH
+      1 PROTEINAS	toxina de Clostridium difficile
+      1 PROTEINAS	toxina botulínica serotipo A
+      1 PROTEINAS	tirosina cinasa
+      1 PROTEINAS	tiroglobulina
+      1 PROTEINAS	TCR
+      1 PROTEINAS	sY86
+      1 PROTEINAS	sY84
+      1 PROTEINAS	sY255
+      1 PROTEINAS	sY254
+      1 PROTEINAS	sY134
+      1 PROTEINAS	sY127
+      1 PROTEINAS	Streptokinasa
+      1 PROTEINAS	STH
+      1 PROTEINAS	ß2µglobulina
+      1 PROTEINAS	SMA
+      1 PROTEINAS	SLC4A1
+      1 PROTEINAS	Sinaptofusina
+      1 PROTEINAS	Sinaptofisina
+      1 PROTEINAS	sinaptofisina
+      1 PROTEINAS	Simponi
+      1 PROTEINAS	sIg
+      1 PROTEINAS	seroalbúmina
+      1 PROTEINAS	scl70
+      1 PROTEINAS	rt-PA
+      1 PROTEINAS	RPg
+      1 PROTEINAS	RHA
+      1 PROTEINAS	reticulina
+      1 PROTEINAS	Remicade
+      1 PROTEINAS	receptores opioides
+      1 PROTEINAS	receptores N-metil-D-aspartato
+      1 PROTEINAS	receptores m opioides
+      1 PROTEINAS	receptores hormonales de estrógenos y de progesterona
+      1 PROTEINAS	receptores hormonales de estrógenos
+      1 PROTEINAS	Receptores de estrógeno
+      1 PROTEINAS	receptor de interleucina 1
+      1 PROTEINAS	receptor de angiotesina II
+      1 PROTEINAS	RE
+      1 PROTEINAS	re
+      1 PROTEINAS	RBP
+      1 PROTEINAS	queratinas AE1-AE3
+      1 PROTEINAS	queratinas AE1-3
+      1 PROTEINAS	queratina 903
+      1 PROTEINAS	queratina 7 y 19
+      1 PROTEINAS	Queratina
+      1 PROTEINAS	Quantiferón
+      1 PROTEINAS	PTEN
+      1 PROTEINAS	PS 3
+      1 PROTEINAS	protombina
+      1 PROTEINAS	proteínas transportadoras de la vitamina A
+      1 PROTEINAS	Proteínas Totales
+      1 PROTEINAS	Proteinas totales
+      1 PROTEINAS	proteinas totales
+      1 PROTEINAS	proteínas S
+      1 PROTEINAS	proteínas en orina
+      1 PROTEINAS	Proteínas
+      1 PROTEINAS	proteína vimentina
+      1 PROTEINAS	Proteína Transportadora de Retinol
+      1 PROTEINAS	proteína sérica amiloide A
+      1 PROTEINAS	Proteína s-100
+      1 PROTEINAS	proteína S100
+      1 PROTEINAS	Proteina S-100
+      1 PROTEINAS	proteina S-100
+      1 PROTEINAS	proteína S- 100
+      1 PROTEINAS	proteína S
+      1 PROTEINAS	proteína p63
+      1 PROTEINAS	proteína ligadora del retinol
+      1 PROTEINAS	proteína ligadora de retinol
+      1 PROTEINAS	proteína glial fibrilar ácida
+      1 PROTEINAS	Proteina enlazante de retinol
+      1 PROTEINAS	proteína C-reativa
+      1 PROTEINAS	proteína C-reactiva
+      1 PROTEINAS	proteína C activada
+      1 PROTEINAS	proteína c activada
+      1 PROTEINAS	proteína amiloide A
+      1 PROTEINAS	proteína ALK
+      1 PROTEINAS	proteína AA
+      1 PROTEINAS	propéptido amino-terminal del procolágeno tipo 1
+      1 PROTEINAS	priones
+      1 PROTEINAS	Prealbúmina
+      1 PROTEINAS	polisacárido capsular de neumococo
+      1 PROTEINAS	polimerasas
+      1 PROTEINAS	P-INF alfa
+      1 PROTEINAS	P-INF
+      1 PROTEINAS	PF4
+      1 PROTEINAS	Perforina
+      1 PROTEINAS	Péptido natriurético tipo B
+      1 PROTEINAS	Péptido C
+      1 PROTEINAS	pegIFN-α2b
+      1 PROTEINAS	PDF
+      1 PROTEINAS	paratohormona
+      1 PROTEINAS	panqueratina
+      1 PROTEINAS	panitumumab
+      1 PROTEINAS	P-ANCA
+      1 PROTEINAS	p80
+      1 PROTEINAS	p-53
+      1 PROTEINAS	p53
+      1 PROTEINAS	P1NP
+      1 PROTEINAS	oxihemoglobina
+      1 PROTEINAS	oxidasa
+      1 PROTEINAS	OKT3
+      1 PROTEINAS	ntiandrógeno
+      1 PROTEINAS	NSE
+      1 PROTEINAS	NPHS2
+      1 PROTEINAS	NPHS1
+      1 PROTEINAS	N-Cam
+      1 PROTEINAS	NAG
+      1 PROTEINAS	N-acetilglucosaminidasa
+      1 PROTEINAS	MyO D1
+      1 PROTEINAS	MUM-1
+      1 PROTEINAS	miosina
+      1 PROTEINAS	mioglobina
+      1 PROTEINAS	miofosforilasa
+      1 PROTEINAS	mieloperoxidasa
+      1 PROTEINAS	mielina
+      1 PROTEINAS	MIB-1
+      1 PROTEINAS	Mi-2
+      1 PROTEINAS	Mi-1
+      1 PROTEINAS	Melan-A
+      1 PROTEINAS	MELAN A
+      1 PROTEINAS	MELAM-A
+      1 PROTEINAS	LMP1
+      1 PROTEINAS	LKM1
+      1 PROTEINAS	LKM
+      1 PROTEINAS	Lisozima
+      1 PROTEINAS	lipoproteínas de alta densidad
+      1 PROTEINAS	LEPRE1
+      1 PROTEINAS	lactodeshidrogenasa
+      1 PROTEINAS	lacticodeshidrogenasa
+      1 PROTEINAS	lácticodehidrogenasa
+      1 PROTEINAS	Lactato deshidrogenosa
+      1 PROTEINAS	lactato deshidrogenada
+      1 PROTEINAS	K-ras
+      1 PROTEINAS	ki 67
+      1 PROTEINAS	keratina
+      1 PROTEINAS	isohemaglutininas
+      1 PROTEINAS	Intrón A
+      1 PROTEINAS	Interleukina II
+      1 PROTEINAS	interleucina humana-1 beta
+      1 PROTEINAS	interleucina 6
+      1 PROTEINAS	interferon-gamma
+      1 PROTEINAS	Interferón-á
+      1 PROTEINAS	interferón gamma
+      1 PROTEINAS	interferón alfa
+      1 PROTEINAS	Interferon alfa
+      1 PROTEINAS	insulina rápida
+      1 PROTEINAS	insulina NPH
+      1 PROTEINAS	insulina isofánica protamina
+      1 PROTEINAS	insulina glargina
+      1 PROTEINAS	insulina aspart
+      1 PROTEINAS	inmunoglobulina IgM
+      1 PROTEINAS	inmunoglobulina G
+      1 PROTEINAS	inmuglobulinas
+      1 PROTEINAS	Inhibina
+      1 PROTEINAS	inhibina
+      1 PROTEINAS	INF-α
+      1 PROTEINAS	immunoglobulinas
+      1 PROTEINAS	IL-2
+      1 PROTEINAS	IgM parvovirus B19
+      1 PROTEINAS	IgM antiVCA
+      1 PROTEINAS	IG-Kappa
+      1 PROTEINAS	IGIV
+      1 PROTEINAS	IgH
+      1 PROTEINAS	IgG específica frente a toxoide tetánico
+      1 PROTEINAS	IgG antiEBNA
+      1 PROTEINAS	IgG anti VCA
+      1 PROTEINAS	IgA y M
+      1 PROTEINAS	IgA antitransglutaminasa
+      1 PROTEINAS	Ig G4
+      1 PROTEINAS	Ig G Kappa
+      1 PROTEINAS	Ig G
+      1 PROTEINAS	Ig A
+      1 PROTEINAS	IFN-α
+      1 PROTEINAS	IFN pegilado α2a
+      1 PROTEINAS	IAA
+      1 PROTEINAS	Humira
+      1 PROTEINAS	human leukocyte antigen
+      1 PROTEINAS	HTLV-1/HTLV-2
+      1 PROTEINAS	HTLV I/II
+      1 PROTEINAS	hormona paratiroidea intacta
+      1 PROTEINAS	hormona paratiroidea
+      1 PROTEINAS	hormona liberadora de gonadotropinas
+      1 PROTEINAS	hormona liberadora de gonadotropina
+      1 PROTEINAS	Hormona Antidiurética
+      1 PROTEINAS	HNF1 β
+      1 PROTEINAS	HMB-45
+      1 PROTEINAS	HLA-DQA1
+      1 PROTEINAS	HLA-B27
+      1 PROTEINAS	HLA DR2
+      1 PROTEINAS	HLA B-7
+      1 PROTEINAS	HLA B-27
+      1 PROTEINAS	HLA A29
+      1 PROTEINAS	Hgb
+      1 PROTEINAS	Her2-neu
+      1 PROTEINAS	Her-2
+      1 PROTEINAS	hemoglobina glicosilada
+      1 PROTEINAS	Hb 1AC
+      1 PROTEINAS	HB
+      1 PROTEINAS	Granzime B
+      1 PROTEINAS	gonadotropinacoriónica humana
+      1 PROTEINAS	Golimumab
+      1 PROTEINAS	GLUT-1
+      1 PROTEINAS	Globulinas
+      1 PROTEINAS	globulinas
+      1 PROTEINAS	globulina antitimocítica
+      1 PROTEINAS	GJB2
+      1 PROTEINAS	G-CSF
+      1 PROTEINAS	Gb3
+      1 PROTEINAS	gastrina
+      1 PROTEINAS	gamma-glutamiltranspeptidasa
+      1 PROTEINAS	Gamma
+      1 PROTEINAS	galactomanano
+      1 PROTEINAS	Fosfatasas alcalinas
+      1 PROTEINAS	fosfatasas alcalinas
+      1 PROTEINAS	fosfatasas ácida y alcalina
+      1 PROTEINAS	Fosfatasa alcalina
+      1 PROTEINAS	FGF23
+      1 PROTEINAS	FFAA
+      1 PROTEINAS	factores estimulantes de colonias granulocíticas
+      1 PROTEINAS	factores estimulantes de colonias
+      1 PROTEINAS	factores de crecimiento granulocitario
+      1 PROTEINAS	factor XIIIa
+      1 PROTEINAS	factor VIII
+      1 PROTEINAS	factor VII
+      1 PROTEINAS	factor estimulante de colonias de granulocitos
+      1 PROTEINAS	F-actina
+      1 PROTEINAS	estreptoquinasa
+      1 PROTEINAS	enzimas pancreáticos
+      1 PROTEINAS	enzimas miocárdicas
+      1 PROTEINAS	enzimas hepáticos
+      1 PROTEINAS	enzima de conversión de angiotensina
+      1 PROTEINAS	enzima convertidora de la angiotensina II
+      1 PROTEINAS	enzima convertidora de angiotensina
+      1 PROTEINAS	enzima convertidor de la angiotensina
+      1 PROTEINAS	enzima conversora de la angiotensina
+      1 PROTEINAS	enolasa neutrófila específica
+      1 PROTEINAS	ence-Jones 
+      1 PROTEINAS	EGFR
+      1 PROTEINAS	eculizumab
+      1 PROTEINAS	E-Caderina
+      1 PROTEINAS	ECA
+      1 PROTEINAS	EBNA
+      1 PROTEINAS	EBER
+      1 PROTEINAS	E3
+      1 PROTEINAS	DRX
+      1 PROTEINAS	DR2
+      1 PROTEINAS	DR1
+      1 PROTEINAS	DQB1
+      1 PROTEINAS	DQ8
+      1 PROTEINAS	Dimeros D
+      1 PROTEINAS	dímero D
+      1 PROTEINAS	desoxihemoglobina
+      1 PROTEINAS	daclizumab
+      1 PROTEINAS	CRTAP
+      1 PROTEINAS	cromogranina A
+      1 PROTEINAS	cromogranina
+      1 PROTEINAS	cromogramina
+      1 PROTEINAS	Criopirina
+      1 PROTEINAS	crioaglutininas
+      1 PROTEINAS	creatinkinasa
+      1 PROTEINAS	creatinincinasa
+      1 PROTEINAS	creatinfosfokinasa fracción MB
+      1 PROTEINAS	creatinfosfokinasa
+      1 PROTEINAS	creatín quinasa
+      1 PROTEINAS	componente M
+      1 PROTEINAS	colinesterasa
+      1 PROTEINAS	colágeno IV
+      1 PROTEINAS	COL1A2
+      1 PROTEINAS	coagulasa
+      1 PROTEINAS	CKPAN
+      1 PROTEINAS	CK-MB
+      1 PROTEINAS	cKit
+      1 PROTEINAS	c-kit
+      1 PROTEINAS	CKAE1
+      1 PROTEINAS	CK8
+      1 PROTEINAS	CK7
+      1 PROTEINAS	CK22
+      1 PROTEINAS	CK18
+      1 PROTEINAS	CK 7
+      1 PROTEINAS	citoquetatina
+      1 PROTEINAS	Citoquerqatinas
+      1 PROTEINAS	citoqueratinas 19 y 20
+      1 PROTEINAS	Citoqueratinas
+      1 PROTEINAS	citoqueratina-7
+      1 PROTEINAS	citoqueratina-20
+      1 PROTEINAS	citoqueratina AE1-3
+      1 PROTEINAS	citoqueratina 22
+      1 PROTEINAS	citoqueratina (CK) 7
+      1 PROTEINAS	citoqueratina (CK) 20
+      1 PROTEINAS	citoqueratina
+      1 PROTEINAS	ciclina D1
+      1 PROTEINAS	C-GSF
+      1 PROTEINAS	cetuximab
+      1 PROTEINAS	Cerb-2
+      1 PROTEINAS	CEA-II
+      1 PROTEINAS	CD-99
+      1 PROTEINAS	CD99
+      1 PROTEINAS	Cd79b
+      1 PROTEINAS	CD57
+      1 PROTEINAS	CD50
+      1 PROTEINAS	CD5
+      1 PROTEINAS	CD38
+      1 PROTEINAS	CD-30
+      1 PROTEINAS	CD30
+      1 PROTEINAS	CD23
+      1 PROTEINAS	CD22
+      1 PROTEINAS	CD209
+      1 PROTEINAS	CD19
+      1 PROTEINAS	CD-15
+      1 PROTEINAS	CD15
+      1 PROTEINAS	cd10
+      1 PROTEINAS	CD1
+      1 PROTEINAS	CD 99
+      1 PROTEINAS	CD 79
+      1 PROTEINAS	CD 56
+      1 PROTEINAS	CD 5
+      1 PROTEINAS	CD 43
+      1 PROTEINAS	catalasa
+      1 PROTEINAS	cANCA
+      1 PROTEINAS	Canakinumab
+      1 PROTEINAS	CAM 5,2
+      1 PROTEINAS	Calretinina
+      1 PROTEINAS	calponina
+      1 PROTEINAS	cadenas ligeras tipo lamda
+      1 PROTEINAS	cadenas ligeras libres monoclonales
+      1 PROTEINAS	cadenas ligeras Kappa
+      1 PROTEINAS	cadenas ligeras de las inmunoglobulinas
+      1 PROTEINAS	cadena pesada de las inmunoglobulinas
+      1 PROTEINAS	cadena gamma del receptor del linfocito T
+      1 PROTEINAS	CA19-9
+      1 PROTEINAS	CA19.9
+      1 PROTEINAS	CA153
+      1 PROTEINAS	Ca 72.4
+      1 PROTEINAS	CA 19-9
+      1 PROTEINAS	CA 19.9
+      1 PROTEINAS	Ca 19,9n
+      1 PROTEINAS	CA 19,9
+      1 PROTEINAS	Ca 15,3
+      1 PROTEINAS	Ca 125II
+      1 PROTEINAS	CA 12,5
+      1 PROTEINAS	C
+      1 PROTEINAS	BX2
+      1 PROTEINAS	BR 27,29
+      1 PROTEINAS	BLEE
+      1 PROTEINAS	BioGide
+      1 PROTEINAS	B-HCG
+      1 PROTEINAS	BHCG
+      1 PROTEINAS	BEVACIZUMAB
+      1 PROTEINAS	Bevacizumab
+      1 PROTEINAS	Beta-HGC
+      1 PROTEINAS	Beta-hCG
+      1 PROTEINAS	beta-hCG
+      1 PROTEINAS	Beta-2-microglobulina
+      1 PROTEINAS	Beta2-microglobulina
+      1 PROTEINAS	beta2-globulina
+      1 PROTEINAS	beta-2 transferrina
+      1 PROTEINAS	beta catenina
+      1 PROTEINAS	beta 2 glicoproteína I
+      1 PROTEINAS	bence-jones
+      1 PROTEINAS	Bcl-6
+      1 PROTEINAS	Bcl-2
+      1 PROTEINAS	bcl-2
+      1 PROTEINAS	B35
+      1 PROTEINAS	B2-microglobulina
+      1 PROTEINAS	b2-microglobulina
+      1 PROTEINAS	b2µglobulina
+      1 PROTEINAS	B14
+      1 PROTEINAS	ATG
+      1 PROTEINAS	aspartato-aminotransferasa
+      1 PROTEINAS	aspartato transferasa
+      1 PROTEINAS	aspartato transaminasa
+      1 PROTEINAS	ASAT
+      1 PROTEINAS	anti-Yo
+      1 PROTEINAS	anti-VEGF
+      1 PROTEINAS	anti-transglutaminasa
+      1 PROTEINAS	anti-Tr
+      1 PROTEINAS	anti-TPO
+      1 PROTEINAS	anti-TNF
+      1 PROTEINAS	antitiroides
+      1 PROTEINAS	antitiroglobulina
+      1 PROTEINAS	anti-TG
+      1 PROTEINAS	anti-SSA
+      1 PROTEINAS	antiSM
+      1 PROTEINAS	anti-Sm
+      1 PROTEINAS	anti-SCL70
+      1 PROTEINAS	anti-RNP
+      1 PROTEINAS	anti-Ri
+      1 PROTEINAS	anti-P155/140
+      1 PROTEINAS	antineumocócica
+      1 PROTEINAS	anti-músculo liso
+      1 PROTEINAS	antimicrosomales
+      1 PROTEINAS	anti-LKM
+      1 PROTEINAS	anti-LA
+      1 PROTEINAS	anti-La
+      1 PROTEINAS	anti-Jo
+      1 PROTEINAS	anti-insulina
+      1 PROTEINAS	anti-IA2
+      1 PROTEINAS	anti-HPA-1a
+      1 PROTEINAS	anti-histonas
+      1 PROTEINAS	antihistona
+      1 PROTEINAS	Anti-HBs
+      1 PROTEINAS	Anti-HBc
+      1 PROTEINAS	antígenos víricos
+      1 PROTEINAS	antígenos de influenza A
+      1 PROTEINAS	antígenos de histocompatibilidad-B27
+      1 PROTEINAS	antígeno prostático específico
+      1 PROTEINAS	antígeno epitelial de membrana
+      1 PROTEINAS	Antígeno de superficie VHB
+      1 PROTEINAS	Antígeno de Superficie para Hepatitis B
+      1 PROTEINAS	antígeno de galactomanano
+      1 PROTEINAS	antígeno criptocócico
+      1 PROTEINAS	Antígeno carcinoembrionario
+      1 PROTEINAS	Antígeno Carcino Embrionario
+      1 PROTEINAS	antifisina
+      1 PROTEINAS	antiDNA
+      1 PROTEINAS	anti-CV2
+      1 PROTEINAS	Anticuerpos IgA antitransglutaminasa
+      1 PROTEINAS	anticuerpos IgA antitransglutaminasa
+      1 PROTEINAS	anticuerpos frente al HTLV-1
+      1 PROTEINAS	anticuerpos frente a VLHT-1
+      1 PROTEINAS	anticuerpos extraíbles del núcleo
+      1 PROTEINAS	anticuerpos contra el treponema
+      1 PROTEINAS	anticuerpos antitransglutaminasa tisular IgA
+      1 PROTEINAS	anticuerpos anti-TPO
+      1 PROTEINAS	anticuerpos antitiroideos
+      1 PROTEINAS	Anticuerpos anti-TG
+      1 PROTEINAS	anticuerpos anti-Ro
+      1 PROTEINAS	anticuerpos antireceptores de la acetilcolina
+      1 PROTEINAS	anticuerpos antiperoxidasa
+      1 PROTEINAS	anticuerpos antipéptidos cíclicos citrulinados
+      1 PROTEINAS	anticuerpos antipéptido cíclico citrulinado
+      1 PROTEINAS	Anticuerpos antinucleares ENA
+      1 PROTEINAS	Anticuerpos antinucleares
+      1 PROTEINAS	anticuerpos anti-NMDA
+      1 PROTEINAS	anticuerpos antimúsculo liso
+      1 PROTEINAS	Anticuerpos antimitocondriales
+      1 PROTEINAS	anticuerpos antimitocondriales
+      1 PROTEINAS	anticuerpos antimicelio
+      1 PROTEINAS	anticuerpos anti-MBG
+      1 PROTEINAS	anticuerpos anti-gliadina
+      1 PROTEINAS	Anticuerpos anti-GAD
+      1 PROTEINAS	anticuerpos antifosfolípido
+      1 PROTEINAS	anticuerpos antifosfolipídicos
+      1 PROTEINAS	anticuerpos anti-endomisio
+      1 PROTEINAS	anticuerpos antiDNA
+      1 PROTEINAS	anticuerpos anticitoplásmicos
+      1 PROTEINAS	anticuerpos anticitoplasma neutrófilo
+      1 PROTEINAS	anticuerpos anti-citoplasma de neutrófilos
+      1 PROTEINAS	anticuerpos anti-citoplasma de los neutrófilos
+      1 PROTEINAS	anticuerpos anticitoplasma
+      1 PROTEINAS	anticuerpos anticélulas parietales
+      1 PROTEINAS	anticuerpos anticardiolipinas de tipo IgM
+      1 PROTEINAS	anticuerpos anticardiolipina de tipo Ig G
+      1 PROTEINAS	anticuerpos anti-ADN
+      1 PROTEINAS	anticuerpos ANA
+      1 PROTEINAS	anticuerpo monoclonal anti CD3
+      1 PROTEINAS	Anticuerpo anti-VHC
+      1 PROTEINAS	Anticuerpo anti-HBs
+      1 PROTEINAS	Anticuerpo anti-HBc
+      1 PROTEINAS	anticuerpo antifosfolípido
+      1 PROTEINAS	anticuerpo antiacuoporina-4
+      1 PROTEINAS	anticuerpo anti GQ-1b
+      1 PROTEINAS	anticitoplasma de neutrófilos
+      1 PROTEINAS	anticentrómero
+      1 PROTEINAS	anti-CCP
+      1 PROTEINAS	anti-cardiolipina
+      1 PROTEINAS	anti-canales de calcio
+      1 PROTEINAS	anti HBe
+      1 PROTEINAS	Anti Hbc
+      1 PROTEINAS	ANCAS
+      1 PROTEINAS	ANCA's
+      1 PROTEINAS	ANCAs
+      1 PROTEINAS	ANCAp
+      1 PROTEINAS	ANAS
+      1 PROTEINAS	ANAs
+      1 PROTEINAS	amiloide AA
+      1 PROTEINAS	amilasas
+      1 PROTEINAS	amilasa pancreática
+      1 PROTEINAS	AMA-2
+      1 PROTEINAS	alk-protein 1
+      1 PROTEINAS	ALK 1
+      1 PROTEINAS	ALK
+      1 PROTEINAS	A-LHRH
+      1 PROTEINAS	alfa-GLA A
+      1 PROTEINAS	alfa-FP
+      1 PROTEINAS	Alfa-feto-proteína
+      1 PROTEINAS	Alfa-Feto-Proteina
+      1 PROTEINAS	Alfa-feto proteína
+      1 PROTEINAS	alfa2
+      1 PROTEINAS	alfa-1-antripsina
+      1 PROTEINAS	alfa1 antitripsina
+      1 PROTEINAS	alfa1
+      1 PROTEINAS	alfa galactosidasa
+      1 PROTEINAS	alfa feto proteína
+      1 PROTEINAS	alemtuzumab
+      1 PROTEINAS	alanini aminotransferasa
+      1 PROTEINAS	alanina-aminotransferasa
+      1 PROTEINAS	alanina transferasa
+      1 PROTEINAS	Ag. criptococo
+      1 PROTEINAS	Ag p24
+      1 PROTEINAS	aFP
+      1 PROTEINAS	a-fetoproteína
+      1 PROTEINAS	AEI
+      1 PROTEINAS	AE1-3
+      1 PROTEINAS	Adenosina desaminasa
+      1 PROTEINAS	ADA
+      1 PROTEINAS	AcVHC
+      1 PROTEINAS	ACTH
+      1 PROTEINAS	ácido desoxirribonucleico
+      1 PROTEINAS	Ac. Toxoplasma
+      1 PROTEINAS	Ac. Leishmania
+      1 PROTEINAS	Ac antinucleares
+      1 PROTEINAS	Ac antifosfolípidos
+      1 PROTEINAS	ac antifosfolípidos
+      1 PROTEINAS	Ac anticardiolipina
+      1 PROTEINAS	ABL cinasa
+      1 PROTEINAS	A30
+      1 PROTEINAS	A29
+      1 PROTEINAS	A11
+      1 PROTEINAS	a-1 antitripsina
+      1 PROTEINAS	4-methyilumbelliferyl α-D-galactosidasa
+      1 PROTEINAS	16S rDNA
+      1 PROTEINAS	16s
+      1 PROTEINAS	µ
+      1 NORMALIZABLES	β-glucano
+      1 NORMALIZABLES	Zovirax
+      1 NORMALIZABLES	zonisamida
+      1 NORMALIZABLES	Zn
+      1 NORMALIZABLES	ziprasidona
+      1 NORMALIZABLES	Zantac
+      1 NORMALIZABLES	Ytrio 90
+      1 NORMALIZABLES	Yodo-131
+      1 NORMALIZABLES	yodo
+      1 NORMALIZABLES	yeso
+      1 NORMALIZABLES	Vycril
+      1 NORMALIZABLES	VPA
+      1 NORMALIZABLES	vitaminas D
+      1 NORMALIZABLES	vitaminas B12
+      1 NORMALIZABLES	vitaminas B1
+      1 NORMALIZABLES	vitamina K
+      1 NORMALIZABLES	vitamina E
+      1 NORMALIZABLES	Vitamina D
+      1 NORMALIZABLES	vitamina C
+      1 NORMALIZABLES	vitamina B-2
+      1 NORMALIZABLES	Vitamina B12
+      1 NORMALIZABLES	vitamina B
+      1 NORMALIZABLES	Vitamina A
+      1 NORMALIZABLES	Visudyne
+      1 NORMALIZABLES	Virex
+      1 NORMALIZABLES	Vinblastina
+      1 NORMALIZABLES	Vibracina
+      1 NORMALIZABLES	Verteporfin
+      1 NORMALIZABLES	vanilmandelato
+      1 NORMALIZABLES	valina
+      1 NORMALIZABLES	uroporfirinas
+      1 NORMALIZABLES	urobilinógeno
+      1 NORMALIZABLES	urbasón
+      1 NORMALIZABLES	Uratos
+      1 NORMALIZABLES	trometamol
+      1 NORMALIZABLES	trimpetoprima/sulfametoxazol
+      1 NORMALIZABLES	trimetroprim-sulfametoxazol
+      1 NORMALIZABLES	trimetroprim-sufametoxazol
+      1 NORMALIZABLES	Trimetropina/ Sulfametoxazol
+      1 NORMALIZABLES	Trimetropin sulfametoxazol
+      1 NORMALIZABLES	trimetoprim-sulfametoxazol
+      1 NORMALIZABLES	Trimetoprim/Sulfametoxasol
+      1 NORMALIZABLES	Trigón depot
+      1 NORMALIZABLES	TRIGON depot
+      1 NORMALIZABLES	Trigon Depot
+      1 NORMALIZABLES	Trigon depot
+      1 NORMALIZABLES	trifusal
+      1 NORMALIZABLES	Triamcinolona acetónido
+      1 NORMALIZABLES	triamcinolona acetónido
+      1 NORMALIZABLES	triamcinolona acetonido
+      1 NORMALIZABLES	trazodona
+      1 NORMALIZABLES	Trangorex
+      1 NORMALIZABLES	tracolimus
+      1 NORMALIZABLES	trabectedina
+      1 NORMALIZABLES	Tobrex
+      1 NORMALIZABLES	Tobramicina
+      1 NORMALIZABLES	TMS
+      1 NORMALIZABLES	Titanio
+      1 NORMALIZABLES	tiazídico
+      1 NORMALIZABLES	tiazidas
+      1 NORMALIZABLES	terlipresina
+      1 NORMALIZABLES	Tenofovir
+      1 NORMALIZABLES	Temozolomida
+      1 NORMALIZABLES	Teicoplanina
+      1 NORMALIZABLES	tecnecio 99-MDP
+      1 NORMALIZABLES	Tc99m-pertecnetato
+      1 NORMALIZABLES	Tc99m-MDP
+      1 NORMALIZABLES	Tc-99m
+      1 NORMALIZABLES	Tc99m
+      1 NORMALIZABLES	Tc 99m difosfato
+      1 NORMALIZABLES	Tazocel
+      1 NORMALIZABLES	taxano
+      1 NORMALIZABLES	tamsulosina
+      1 NORMALIZABLES	tafluprost
+      1 NORMALIZABLES	tacrolinus
+      1 NORMALIZABLES	T4L
+      1 NORMALIZABLES	T4 libre
+      1 NORMALIZABLES	Synhes
+      1 NORMALIZABLES	Supradyn
+      1 NORMALIZABLES	sulpiride
+      1 NORMALIZABLES	sulfuro
+      1 NORMALIZABLES	sulfonilurea
+      1 NORMALIZABLES	sulfato magnésico
+      1 NORMALIZABLES	sulfato de polimixina B
+      1 NORMALIZABLES	sulfato de glucosamina
+      1 NORMALIZABLES	Sulfamidas
+      1 NORMALIZABLES	sulfamidas
+      1 NORMALIZABLES	Sulfadiacina argéntica
+      1 NORMALIZABLES	sulfadiacina argéntica
+      1 NORMALIZABLES	Sulfadiacina
+      1 NORMALIZABLES	sulfadiacina
+      1 NORMALIZABLES	sulfacetamida
+      1 NORMALIZABLES	sueros salinos
+      1 NORMALIZABLES	sueros
+      1 NORMALIZABLES	suero salino fisiológico
+      1 NORMALIZABLES	succinilcolina
+      1 NORMALIZABLES	St
+      1 NORMALIZABLES	solución Dianeal
+      1 NORMALIZABLES	solución de Carnoy
+      1 NORMALIZABLES	Solinitrina
+      1 NORMALIZABLES	sirolimus
+      1 NORMALIZABLES	sinvastatina
+      1 NORMALIZABLES	sintrom
+      1 NORMALIZABLES	silidosina
+      1 NORMALIZABLES	sildenafil
+      1 NORMALIZABLES	Sevofluorano
+      1 NORMALIZABLES	sevofluorano
+      1 NORMALIZABLES	sertaconazol
+      1 NORMALIZABLES	serina
+      1 NORMALIZABLES	septrim forte
+      1 NORMALIZABLES	Seprin
+      1 NORMALIZABLES	Se
+      1 NORMALIZABLES	salino fisiológico
+      1 NORMALIZABLES	salazopirina
+      1 NORMALIZABLES	Salagen
+      1 NORMALIZABLES	Saflutan
+      1 NORMALIZABLES	r-TPA
+      1 NORMALIZABLES	rosiglitiazona
+      1 NORMALIZABLES	rosiglitazona
+      1 NORMALIZABLES	Romilar
+      1 NORMALIZABLES	rocuronio
+      1 NORMALIZABLES	Rivotril
+      1 NORMALIZABLES	ringer lactato
+      1 NORMALIZABLES	ribavirina
+      1 NORMALIZABLES	retinol
+      1 NORMALIZABLES	reteplasa
+      1 NORMALIZABLES	Resource diabet
+      1 NORMALIZABLES	Replagal
+      1 NORMALIZABLES	repaglinida
+      1 NORMALIZABLES	Renifentanilo
+      1 NORMALIZABLES	rasburicasa
+      1 NORMALIZABLES	Ranitidina
+      1 NORMALIZABLES	ranitidina
+      1 NORMALIZABLES	R
+      1 NORMALIZABLES	quinolona
+      1 NORMALIZABLES	quinina
+      1 NORMALIZABLES	quinaprilo
+      1 NORMALIZABLES	PVA
+      1 NORMALIZABLES	pseudoefedrina
+      1 NORMALIZABLES	protamina
+      1 NORMALIZABLES	propranolol
+      1 NORMALIZABLES	Propofol
+      1 NORMALIZABLES	propanolol
+      1 NORMALIZABLES	Prograf
+      1 NORMALIZABLES	Procarbazina
+      1 NORMALIZABLES	procaína
+      1 NORMALIZABLES	preparado multivitamínico
+      1 NORMALIZABLES	prednisolona
+      1 NORMALIZABLES	praziquantel
+      1 NORMALIZABLES	Prasugrel
+      1 NORMALIZABLES	ponatinib
+      1 NORMALIZABLES	poliuretano
+      1 NORMALIZABLES	politetrafluoroetileno
+      1 NORMALIZABLES	polipropileno
+      1 NORMALIZABLES	polimixina
+      1 NORMALIZABLES	poliinsaturados
+      1 NORMALIZABLES	polietilenglicol
+      1 NORMALIZABLES	polidocanol
+      1 NORMALIZABLES	Polaramine
+      1 NORMALIZABLES	plomo
+      1 NORMALIZABLES	Pirimetamina
+      1 NORMALIZABLES	pirimetamina
+      1 NORMALIZABLES	piridoxina
+      1 NORMALIZABLES	piridostigmina
+      1 NORMALIZABLES	piracetan
+      1 NORMALIZABLES	piperacilina/tazobactam
+      1 NORMALIZABLES	petidina
+      1 NORMALIZABLES	periodic acid Schiff
+      1 NORMALIZABLES	perfluoropropano
+      1 NORMALIZABLES	penicilinas
+      1 NORMALIZABLES	penicilina sódica
+      1 NORMALIZABLES	penicilina G-benzatina
+      1 NORMALIZABLES	Penicilina G sódica
+      1 NORMALIZABLES	Penicilina G Benzatina
+      1 NORMALIZABLES	penicilina G
+      1 NORMALIZABLES	penicilina benzatínica
+      1 NORMALIZABLES	Penicilina
+      1 NORMALIZABLES	PegINF alfa
+      1 NORMALIZABLES	paroxetina
+      1 NORMALIZABLES	Pantoprazol
+      1 NORMALIZABLES	Oxynorm
+      1 NORMALIZABLES	Oxycontin
+      1 NORMALIZABLES	oxigeno
+      1 NORMALIZABLES	óxido nitroso
+      1 NORMALIZABLES	oxidemetón-metilo
+      1 NORMALIZABLES	oxicodona
+      1 NORMALIZABLES	oxicilin
+      1 NORMALIZABLES	oxcarbacepina
+      1 NORMALIZABLES	OXC
+      1 NORMALIZABLES	olmesartan
+      1 NORMALIZABLES	Oil-Red
+      1 NORMALIZABLES	Oftacilox
+      1 NORMALIZABLES	oestradiol
+      1 NORMALIZABLES	octreótide
+      1 NORMALIZABLES	octeótrido
+      1 NORMALIZABLES	nucleótidos
+      1 NORMALIZABLES	nucleósidos
+      1 NORMALIZABLES	normetanefrinas
+      1 NORMALIZABLES	normetanefrina
+      1 NORMALIZABLES	nitroprusiato
+      1 NORMALIZABLES	Nitroplast
+      1 NORMALIZABLES	Nitrógeno
+      1 NORMALIZABLES	nitrógeno
+      1 NORMALIZABLES	Nitrofural
+      1 NORMALIZABLES	Nistatina
+      1 NORMALIZABLES	nilotinib
+      1 NORMALIZABLES	Neuromade
+      1 NORMALIZABLES	Nervobión
+      1 NORMALIZABLES	Nervinex
+      1 NORMALIZABLES	Natecal D
+      1 NORMALIZABLES	Nalbufina
+      1 NORMALIZABLES	NaCl
+      1 NORMALIZABLES	Na+
+      1 NORMALIZABLES	NA
+      1 NORMALIZABLES	mupirocina
+      1 NORMALIZABLES	Moxifloxacino
+      1 NORMALIZABLES	Montelukast
+      1 NORMALIZABLES	montelukast
+      1 NORMALIZABLES	mononitrato de isosorbida
+      1 NORMALIZABLES	Mn
+      1 NORMALIZABLES	Mitoxantrone
+      1 NORMALIZABLES	mitomicina
+      1 NORMALIZABLES	Midazolam
+      1 NORMALIZABLES	micofenolato de mofetilo
+      1 NORMALIZABLES	Micofenolato
+      1 NORMALIZABLES	MIBI
+      1 NORMALIZABLES	MG
+      1 NORMALIZABLES	metrotrexato
+      1 NORMALIZABLES	metrotexato
+      1 NORMALIZABLES	metrotexate
+      1 NORMALIZABLES	Metronidazol
+      1 NORMALIZABLES	Metotrexato Lederle
+      1 NORMALIZABLES	metoprolol
+      1 NORMALIZABLES	Metilprednisolona
+      1 NORMALIZABLES	metil-prednisolona
+      1 NORMALIZABLES	Metilprednisolana
+      1 NORMALIZABLES	metilmetacrilato
+      1 NORMALIZABLES	metilfenidato
+      1 NORMALIZABLES	Metilcetona
+      1 NORMALIZABLES	metilcetona
+      1 NORMALIZABLES	meticilina
+      1 NORMALIZABLES	Metformina
+      1 NORMALIZABLES	Metasystox
+      1 NORMALIZABLES	metanefrinas totales
+      1 NORMALIZABLES	metanefrina
+      1 NORMALIZABLES	metanamina
+      1 NORMALIZABLES	metal-porcelana
+      1 NORMALIZABLES	metadona
+      1 NORMALIZABLES	metacolina
+      1 NORMALIZABLES	MESNA
+      1 NORMALIZABLES	mepivacaína
+      1 NORMALIZABLES	Melfalán
+      1 NORMALIZABLES	melatonina
+      1 NORMALIZABLES	medroxiprogesterona
+      1 NORMALIZABLES	McConkey
+      1 NORMALIZABLES	Maxidex
+      1 NORMALIZABLES	marlex
+      1 NORMALIZABLES	maprotilina
+      1 NORMALIZABLES	Manidon retard
+      1 NORMALIZABLES	MAG-3-Tc-99m
+      1 NORMALIZABLES	MAG-3
+      1 NORMALIZABLES	lovastatina
+      1 NORMALIZABLES	losartán postásico
+      1 NORMALIZABLES	losartan
+      1 NORMALIZABLES	lormetazepam
+      1 NORMALIZABLES	Lorazepam
+      1 NORMALIZABLES	lorazepam
+      1 NORMALIZABLES	lopinavir
+      1 NORMALIZABLES	lisinopril
+      1 NORMALIZABLES	Lioresal
+      1 NORMALIZABLES	Linezolid
+      1 NORMALIZABLES	Levotiroxina
+      1 NORMALIZABLES	levotirosina
+      1 NORMALIZABLES	Levofloxacino
+      1 NORMALIZABLES	levetirazepam
+      1 NORMALIZABLES	levetiracepam
+      1 NORMALIZABLES	LEV
+      1 NORMALIZABLES	Leuprorelina
+      1 NORMALIZABLES	lercanidipino
+      1 NORMALIZABLES	lepirudina
+      1 NORMALIZABLES	lcio p
+      1 NORMALIZABLES	latanoprost
+      1 NORMALIZABLES	Lassar
+      1 NORMALIZABLES	lactulosa
+      1 NORMALIZABLES	lactosa
+      1 NORMALIZABLES	Lactato Magnésico
+      1 NORMALIZABLES	lactato Magnésico
+      1 NORMALIZABLES	lactato de magnesio
+      1 NORMALIZABLES	Lactato
+      1 NORMALIZABLES	Konakión
+      1 NORMALIZABLES	KeraOs
+      1 NORMALIZABLES	Kenacort®-A
+      1 NORMALIZABLES	Kabiven
+      1 NORMALIZABLES	Isoplasmar G
+      1 NORMALIZABLES	Isoniazida
+      1 NORMALIZABLES	isodine
+      1 NORMALIZABLES	irinotecán
+      1 NORMALIZABLES	Iridium 196
+      1 NORMALIZABLES	Iomeron 400
+      1 NORMALIZABLES	Intralipid
+      1 NORMALIZABLES	indol
+      1 NORMALIZABLES	indapamida
+      1 NORMALIZABLES	In111-octreótido
+      1 NORMALIZABLES	Imurel
+      1 NORMALIZABLES	imipenem
+      1 NORMALIZABLES	Imatinib
+      1 NORMALIZABLES	Ifosmamida
+      1 NORMALIZABLES	Ibuprofeno
+      1 NORMALIZABLES	HPBM
+      1 NORMALIZABLES	homocisteína
+      1 NORMALIZABLES	homocisteina
+      1 NORMALIZABLES	histidina
+      1 NORMALIZABLES	hipoclorito
+      1 NORMALIZABLES	hidroxiúrea
+      1 NORMALIZABLES	hidroxicloroquina
+      1 NORMALIZABLES	hidroxiapatita
+      1 NORMALIZABLES	hidromorfona
+      1 NORMALIZABLES	hidrocortisona
+      1 NORMALIZABLES	hidroclorotiacida
+      1 NORMALIZABLES	Hidratos de Carbono
+      1 NORMALIZABLES	hidrato de hidracina
+      1 NORMALIZABLES	hidorcloruro de amytriptilina
+      1 NORMALIZABLES	hexafluoruro de azufre
+      1 NORMALIZABLES	Heparine
+      1 NORMALIZABLES	heparina Na
+      1 NORMALIZABLES	heparin
+      1 NORMALIZABLES	Hematoxilina
+      1 NORMALIZABLES	Haloperidol
+      1 NORMALIZABLES	haloperidol
+      1 NORMALIZABLES	H
+      1 NORMALIZABLES	Guanina
+      1 NORMALIZABLES	griseofulvina
+      1 NORMALIZABLES	granufoam
+      1 NORMALIZABLES	granisetron
+      1 NORMALIZABLES	Goserelina
+      1 NORMALIZABLES	Gore-tex
+      1 NORMALIZABLES	glutamina
+      1 NORMALIZABLES	gluconato cálcico
+      1 NORMALIZABLES	Glivec
+      1 NORMALIZABLES	glipizida
+      1 NORMALIZABLES	glinclazida
+      1 NORMALIZABLES	glimepirida
+      1 NORMALIZABLES	gliclazida
+      1 NORMALIZABLES	glicina
+      1 NORMALIZABLES	glibenclamida
+      1 NORMALIZABLES	Gevramycin
+      1 NORMALIZABLES	Gemzitabina
+      1 NORMALIZABLES	gadolinium-DTPA
+      1 NORMALIZABLES	Gadolinio
+      1 NORMALIZABLES	gabapentina
+      1 NORMALIZABLES	Ga67
+      1 NORMALIZABLES	fotemustina
+      1 NORMALIZABLES	fosfato amónico magnésico
+      1 NORMALIZABLES	Fosfato
+      1 NORMALIZABLES	Fortimel
+      1 NORMALIZABLES	folinato cálcico
+      1 NORMALIZABLES	folatos
+      1 NORMALIZABLES	folato
+      1 NORMALIZABLES	fluorouracilo
+      1 NORMALIZABLES	fluorometolona
+      1 NORMALIZABLES	fluoroglucosa
+      1 NORMALIZABLES	fluoresceína sódica
+      1 NORMALIZABLES	fluoracilo
+      1 NORMALIZABLES	Fludarabina
+      1 NORMALIZABLES	Fluconazol
+      1 NORMALIZABLES	filgastrim
+      1 NORMALIZABLES	fenotiacinas
+      1 NORMALIZABLES	fenofibrato
+      1 NORMALIZABLES	fenobarbital
+      1 NORMALIZABLES	Fenitoína
+      1 NORMALIZABLES	fenitoina
+      1 NORMALIZABLES	Fe
+      1 NORMALIZABLES	Fabrazyme
+      1 NORMALIZABLES	ezetimibe
+      1 NORMALIZABLES	everolimus
+      1 NORMALIZABLES	etomidato
+      1 NORMALIZABLES	etanefrinas 
+      1 NORMALIZABLES	Estroncio
+      1 NORMALIZABLES	Estreptomicina
+      1 NORMALIZABLES	estradiol
+      1 NORMALIZABLES	estatina
+      1 NORMALIZABLES	Espironolactona
+      1 NORMALIZABLES	ertapenem
+      1 NORMALIZABLES	epoprostenol sódico
+      1 NORMALIZABLES	epirubicina
+      1 NORMALIZABLES	Epirrubicina
+      1 NORMALIZABLES	epirrubicina
+      1 NORMALIZABLES	Enantyun
+      1 NORMALIZABLES	Enantyum
+      1 NORMALIZABLES	enalaprilo
+      1 NORMALIZABLES	Emtricitabina
+      1 NORMALIZABLES	emtricitabina
+      1 NORMALIZABLES	EFV
+      1 NORMALIZABLES	EFAVIRENS
+      1 NORMALIZABLES	edrofonio
+      1 NORMALIZABLES	Edemox
+      1 NORMALIZABLES	eatinina 2
+      1 NORMALIZABLES	Dysport
+      1 NORMALIZABLES	D-xilosa
+      1 NORMALIZABLES	D-penicilamina
+      1 NORMALIZABLES	Doxurrubicina
+      1 NORMALIZABLES	Doxorubicina
+      1 NORMALIZABLES	doxorubicina
+      1 NORMALIZABLES	Doxiciclina
+      1 NORMALIZABLES	doxazosina
+      1 NORMALIZABLES	doxaciclina
+      1 NORMALIZABLES	dosazoxina
+      1 NORMALIZABLES	Dormicum
+      1 NORMALIZABLES	Docetaxel
+      1 NORMALIZABLES	diuréticos tiazídicos
+      1 NORMALIZABLES	diurético de asa
+      1 NORMALIZABLES	dipirona
+      1 NORMALIZABLES	Diluton
+      1 NORMALIZABLES	digoxina
+      1 NORMALIZABLES	digluconato de clorhexidina
+      1 NORMALIZABLES	Difenilhidantoína
+      1 NORMALIZABLES	Difehilhidantoína
+      1 NORMALIZABLES	didanosina
+      1 NORMALIZABLES	dicumarinicos
+      1 NORMALIZABLES	dicloxacilina
+      1 NORMALIZABLES	Diclofenaco-lepori
+      1 NORMALIZABLES	diclofenaco sódico
+      1 NORMALIZABLES	Diclofenaco
+      1 NORMALIZABLES	Diazapam
+      1 NORMALIZABLES	Diatracin
+      1 NORMALIZABLES	Dexketoprofeno trometamol
+      1 NORMALIZABLES	dexclorfeniramina
+      1 NORMALIZABLES	daunorrubicina
+      1 NORMALIZABLES	Darunavir
+      1 NORMALIZABLES	darunavir
+      1 NORMALIZABLES	Daptomicina
+      1 NORMALIZABLES	dactinomicina
+      1 NORMALIZABLES	Dacron
+      1 NORMALIZABLES	Dacortin
+      1 NORMALIZABLES	Dacarbazina
+      1 NORMALIZABLES	dacarbacina
+      1 NORMALIZABLES	Dabigatran
+      1 NORMALIZABLES	dabigatran
+      1 NORMALIZABLES	Cu
+      1 NORMALIZABLES	Cresophene
+      1 NORMALIZABLES	Creat
+      1 NORMALIZABLES	crea
+      1 NORMALIZABLES	CPT11
+      1 NORMALIZABLES	corticosteroides
+      1 NORMALIZABLES	corticosteroide
+      1 NORMALIZABLES	coproporfirinas
+      1 NORMALIZABLES	Contour
+      1 NORMALIZABLES	condroitin sulfato
+      1 NORMALIZABLES	complejo B
+      1 NORMALIZABLES	Combigan
+      1 NORMALIZABLES	colesterol-LDL
+      1 NORMALIZABLES	colesterol-HDL
+      1 NORMALIZABLES	Colesterol HDL
+      1 NORMALIZABLES	colecalciferol
+      1 NORMALIZABLES	colchicina
+      1 NORMALIZABLES	Codeína
+      1 NORMALIZABLES	cobalto
+      1 NORMALIZABLES	Cobalaminas
+      1 NORMALIZABLES	CO3H
+      1 NORMALIZABLES	Co 60
+      1 NORMALIZABLES	Cloxacilina
+      1 NORMALIZABLES	cloruros
+      1 NORMALIZABLES	cloruro mórfico
+      1 NORMALIZABLES	clortalidona
+      1 NORMALIZABLES	cloroquina
+      1 NORMALIZABLES	Cloro
+      1 NORMALIZABLES	clorhidrato de pseudoefedrina
+      1 NORMALIZABLES	clorazepato dipotásico
+      1 NORMALIZABLES	clonazepan
+      1 NORMALIZABLES	Clonacepam
+      1 NORMALIZABLES	clioquinol
+      1 NORMALIZABLES	c-LDL
+      1 NORMALIZABLES	claversal
+      1 NORMALIZABLES	citrato potásico
+      1 NORMALIZABLES	citrato de fentanilo
+      1 NORMALIZABLES	Citarabina
+      1 NORMALIZABLES	cisplatin
+      1 NORMALIZABLES	cisatracurium
+      1 NORMALIZABLES	cipro-floxacina
+      1 NORMALIZABLES	Cilastatina
+      1 NORMALIZABLES	Ciclosporina
+      1 NORMALIZABLES	Ciclopléjico
+      1 NORMALIZABLES	ciclopléjico
+      1 NORMALIZABLES	Cicloplegic
+      1 NORMALIZABLES	ciclopentolato clorhidrato
+      1 NORMALIZABLES	ciclopentolato
+      1 NORMALIZABLES	cianoacrilato
+      1 NORMALIZABLES	Chibroxín
+      1 NORMALIZABLES	cHDL
+      1 NORMALIZABLES	Cetonas
+      1 NORMALIZABLES	Cetirizina
+      1 NORMALIZABLES	Cernevit
+      1 NORMALIZABLES	Celox
+      1 NORMALIZABLES	Cellcept
+      1 NORMALIZABLES	Cefuroxima-axetilo
+      1 NORMALIZABLES	cefuroxima
+      1 NORMALIZABLES	Ceftazidima
+      1 NORMALIZABLES	Cefotaxima
+      1 NORMALIZABLES	cefixima
+      1 NORMALIZABLES	Cefazolina
+      1 NORMALIZABLES	cefalotina
+      1 NORMALIZABLES	cefalosporinas de tercera generación
+      1 NORMALIZABLES	Cavit
+      1 NORMALIZABLES	catecolaminas libres
+      1 NORMALIZABLES	Caspofungina
+      1 NORMALIZABLES	caspofungina
+      1 NORMALIZABLES	Casenglicol
+      1 NORMALIZABLES	carvedilol
+      1 NORMALIZABLES	carmelosa sódica
+      1 NORMALIZABLES	carburo de tungsteno
+      1 NORMALIZABLES	Carbonato cálcico
+      1 NORMALIZABLES	carbocisteína
+      1 NORMALIZABLES	Carbamazepina
+      1 NORMALIZABLES	capsaícina
+      1 NORMALIZABLES	Capecitabina
+      1 NORMALIZABLES	candesartan
+      1 NORMALIZABLES	calcipotriol
+      1 NORMALIZABLES	Calcio corregido
+      1 NORMALIZABLES	calcio corregido
+      1 NORMALIZABLES	calcifediol
+      1 NORMALIZABLES	cafeína
+      1 NORMALIZABLES	cabergolina
+      1 NORMALIZABLES	ca
+      1 NORMALIZABLES	budesonida
+      1 NORMALIZABLES	BT
+      1 NORMALIZABLES	bromuro de tiotropio
+      1 NORMALIZABLES	bromhidrato de dextrometorfano
+      1 NORMALIZABLES	bromazepan
+      1 NORMALIZABLES	Bortezomid
+      1 NORMALIZABLES	borato sódico
+      1 NORMALIZABLES	bleomicina
+      1 NORMALIZABLES	bleom<icina
+      1 NORMALIZABLES	bisfosfonatos
+      1 NORMALIZABLES	bimatoprost
+      1 NORMALIZABLES	Biguanid
+      1 NORMALIZABLES	Bicarbonato
+      1 NORMALIZABLES	Betametazona
+      1 NORMALIZABLES	beta-lactámicos
+      1 NORMALIZABLES	betalactámicos
+      1 NORMALIZABLES	betafosfato tricálcico
+      1 NORMALIZABLES	Besilato de atracurio
+      1 NORMALIZABLES	benzodiazepinas
+      1 NORMALIZABLES	benzodiacepina
+      1 NORMALIZABLES	benzamidas
+      1 NORMALIZABLES	Bendamustina
+      1 NORMALIZABLES	bemiparina
+      1 NORMALIZABLES	beclometasona
+      1 NORMALIZABLES	BD
+      1 NORMALIZABLES	BCG intravesical
+      1 NORMALIZABLES	bases xánticas
+      1 NORMALIZABLES	barnidipino
+      1 NORMALIZABLES	barbitúricos
+      1 NORMALIZABLES	baclofeno
+      1 NORMALIZABLES	bacitracina-zinc
+      1 NORMALIZABLES	B6
+      1 NORMALIZABLES	azul de Prusia
+      1 NORMALIZABLES	azúcar
+      1 NORMALIZABLES	aztreonam
+      1 NORMALIZABLES	azitromicina
+      1 NORMALIZABLES	Azathiproprina
+      1 NORMALIZABLES	Azathioprina
+      1 NORMALIZABLES	AVK
+      1 NORMALIZABLES	Avandia
+      1 NORMALIZABLES	Auxina A+E
+      1 NORMALIZABLES	atropina sulfato
+      1 NORMALIZABLES	Atrasentan
+      1 NORMALIZABLES	Atorvastatina
+      1 NORMALIZABLES	Atenolol
+      1 NORMALIZABLES	atecolaminas 
+      1 NORMALIZABLES	Aspirina
+      1 NORMALIZABLES	argón plasma
+      1 NORMALIZABLES	arginina
+      1 NORMALIZABLES	Arg
+      1 NORMALIZABLES	ARA II
+      1 NORMALIZABLES	anticumarínicos
+      1 NORMALIZABLES	anhídrido carbónico
+      1 NORMALIZABLES	Anfotericina
+      1 NORMALIZABLES	Andrógeno
+      1 NORMALIZABLES	Anakinra
+      1 NORMALIZABLES	anakinra
+      1 NORMALIZABLES	Ampicilina
+      1 NORMALIZABLES	amoxilina-clavulánico
+      1 NORMALIZABLES	amoxicilna-clavulánico
+      1 NORMALIZABLES	Amoxicilina-clavulánico
+      1 NORMALIZABLES	amoxicilina + clavulánico
+      1 NORMALIZABLES	Amisulpride
+      1 NORMALIZABLES	amisulpi-ride
+      1 NORMALIZABLES	amikazina
+      1 NORMALIZABLES	amfotericina-B
+      1 NORMALIZABLES	Amfotericina B
+      1 NORMALIZABLES	Ameride
+      1 NORMALIZABLES	aluminio
+      1 NORMALIZABLES	algodón
+      1 NORMALIZABLES	alginato
+      1 NORMALIZABLES	alfacalcidiol
+      1 NORMALIZABLES	alcohol metílico
+      1 NORMALIZABLES	alcohol etílico
+      1 NORMALIZABLES	alcohol de polivinilo
+      1 NORMALIZABLES	alcalinizantes
+      1 NORMALIZABLES	AINE-s
+      1 NORMALIZABLES	agua oxigenada
+      1 NORMALIZABLES	AGCM
+      1 NORMALIZABLES	Agar Chocolate
+      1 NORMALIZABLES	agar
+      1 NORMALIZABLES	agalsidasa beta
+      1 NORMALIZABLES	agalsidasa alfa
+      1 NORMALIZABLES	Adriamicina liposomial
+      1 NORMALIZABLES	Adenocor
+      1 NORMALIZABLES	Acuprel
+      1 NORMALIZABLES	Actiq
+      1 NORMALIZABLES	actinomicina-D
+      1 NORMALIZABLES	acrílico
+      1 NORMALIZABLES	ácidos grasos omega 3
+      1 NORMALIZABLES	ácidos grasos monoinsaturados
+      1 NORMALIZABLES	ácidos grasos de cadena media
+      1 NORMALIZABLES	ácidos biliares
+      1 NORMALIZABLES	Ácido Zoledrónico
+      1 NORMALIZABLES	ácido zoledrónico
+      1 NORMALIZABLES	ácido zoledrómico
+      1 NORMALIZABLES	ácido tranexámico
+      1 NORMALIZABLES	acido folínico
+      1 NORMALIZABLES	Ácido clavulánico
+      1 NORMALIZABLES	ácido aminocaproico
+      1 NORMALIZABLES	ácido alendrónico
+      1 NORMALIZABLES	acido acetilsalicílico
+      1 NORMALIZABLES	ácido acetil salicílico
+      1 NORMALIZABLES	acetónido de triamcinolona
+      1 NORMALIZABLES	acetona
+      1 NORMALIZABLES	Acetilsalicílico ácido
+      1 NORMALIZABLES	Acetato de Megestrol
+      1 NORMALIZABLES	acetato de megestrol
+      1 NORMALIZABLES	acero
+      1 NORMALIZABLES	acenocumarina
+      1 NORMALIZABLES	aceclofenaco
+      1 NORMALIZABLES	Acalka
+      1 NORMALIZABLES	ac. Fólico
+      1 NORMALIZABLES	A.I.N.E.
+      1 NORMALIZABLES	A
+      1 NORMALIZABLES	99mTecnecio
+      1 NORMALIZABLES	99mTc
+      1 NORMALIZABLES	6-Metil-Prednisolona
+      1 NORMALIZABLES	67Galio
+      1 NORMALIZABLES	67Ga
+      1 NORMALIZABLES	60Cobalto
+      1 NORMALIZABLES	5HIAA
+      1 NORMALIZABLES	5-fluoracilo
+      1 NORMALIZABLES	5-aminosalicílico
+      1 NORMALIZABLES	25-OH-D
+      1 NORMALIZABLES	25OHCC
+      1 NORMALIZABLES	25 hidroxivitamina D
+      1 NORMALIZABLES	18FDG
+      1 NORMALIZABLES	17-cetosteroides
+      1 NORMALIZABLES	123I-MIBG
+      1 NORMALIZABLES	1,25-dihidroxivitamina D
+      1 NORMALIZABLES	1,25 DHCC
+      1 NORMALIZABLES	02
+      1 NO_NORMALIZABLES	vitamina D4
+      1 NO_NORMALIZABLES	Tulgrasum
+      1 NO_NORMALIZABLES	triptanos
+      1 NO_NORMALIZABLES	Tobradex
+      1 NO_NORMALIZABLES	Tachosil
+      1 NO_NORMALIZABLES	Sueroral
+      1 NO_NORMALIZABLES	suero lavador
+      1 NO_NORMALIZABLES	Poly-pred
+      1 NO_NORMALIZABLES	Nd-YAG
+      1 NO_NORMALIZABLES	monocryl
+      1 NO_NORMALIZABLES	metamina de plata
+      1 NO_NORMALIZABLES	mármol
+      1 NO_NORMALIZABLES	Kabiven
+      1 NO_NORMALIZABLES	In.111 pentreótida
+      1 NO_NORMALIZABLES	HDP-Tc99M
+      1 NO_NORMALIZABLES	granito
+      1 NO_NORMALIZABLES	fluoroquinolonas
+      1 NO_NORMALIZABLES	Fluoropirimidinas9
+      1 NO_NORMALIZABLES	Cernevit
+      1 NO_NORMALIZABLES	Biobrane
+      1 NO_NORMALIZABLES	beta y alfaadrenérgico
+      1 NO_NORMALIZABLES	antivitamina K
+      1 NO_NORMALIZABLES	Aminoven
+      1 NO_NORMALIZABLES	alfaadrenérgico
+      1 NO_NORMALIZABLES	agar sangre y chocolate
+      1 NO_NORMALIZABLES	Agar Columbia
+      1 NO_NORMALIZABLES	Agar Brucella
+      1 NO_NORMALIZABLES	ácidos poliláctico y poliglicólico
+      1 NO_NORMALIZABLES	acido

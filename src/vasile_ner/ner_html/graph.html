@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+<head>
+  <title>COROLA Word Embeddings Graph View</title>
+  <meta charset="utf-8">
+
+  <script src="jquery-1.8.3.min.js"></script>
+  <script type="text/javascript" src="vis.min.js"></script>
+  <link href="vis.min.css" rel="stylesheet" type="text/css" />
+
+  <style type="text/css">
+    #mynetwork {
+      width: 1200px;
+      height: 800px;
+      border: 1px solid lightgray;
+      margin:auto;
+    }
+  </style>
+</head>
+<body>
+
+<p align="center">
+Word: <input type="text" id="word"/>
+Number of neighbors: <input type="text" id="neighbors" value="10"/>
+<input type="button" onclick="start();" value="Start"/>
+</p>
+
+<div id="mynetwork"></div>
+
+<script type="text/javascript">
+
+var words={};
+var numWords=0;
+
+  // create an array with nodes
+  var nodes = new vis.DataSet([]);
+
+  // create an array with edges
+  var edges = new vis.DataSet([]);
+
+  // create a network
+  var container = document.getElementById('mynetwork');
+  var data = {
+    nodes: nodes,
+    edges: edges
+  };
+  var options = {};
+  var network = new vis.Network(container, data, options);
+
+    network.on("selectNode", function (params) {
+        console.log('selectNode Event:', params);
+
+	loadData(nodes.get(params.nodes[0]).label);
+    });
+
+function start(){
+    var word=$("#word").val().trim();
+    if(word.length<1){
+	alert("Please enter a starting word");
+	return;
+    }
+    loadData(word);
+}
+
+function loadData(word){
+    var neighbors=parseInt($("#neighbors").val());
+    if(neighbors<1 || neighbors>5000){
+	alert("Please enter neighbors number between 1 and 5000");
+	return ;
+    }
+
+	    if(!words.hasOwnProperty(word)){
+		numWords++;
+		words[word]=numWords;
+		nodes.add({id:numWords,label:word});
+	    }
+
+
+    $.getJSON( "get_vectors_similar.php?word="+word+"&top="+neighbors, function( data ) {
+	for(var i=0;i<data.words.length;i++){
+	    var w=data.words[i];
+	    if(!words.hasOwnProperty(w)){
+		numWords++;
+		words[w]=numWords;
+		nodes.add({id:numWords,label:w});
+	    }
+
+	    edges.add({from:words[word],to:words[w]});
+	}
+
+    });
+}
+
+</script>
+
+
+</body>
+</html>
+

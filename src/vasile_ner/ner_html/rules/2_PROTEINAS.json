@@ -1,0 +1,17 @@
+{"rules":[
+
+{
+    "match":[
+      {"word":"abciximab|adalimumab|adalimumab-atto|ado-trastuzumab|emtansine|alemtuzumab|alirocumab|atezolizumab|avelumab|basiliximab|belimumab|bevacizumab|bezlotoxumab|blinatumomab|brentuximab|vedotin|brodalumab|canakinumab|capromab|pendetide|certolizumab|pegol|cetuximab|daclizumab|daratumumab|denosumab|dinutuximab|dupilumab|durvalumab|eculizumab|elotuzumab|evolocumab|golimumab|golimumab|ibritumomab|tiuxetan|idarucizumab|infliximab|infliximab-abda|infliximab-dyyb|ipilimumab|ixekizumab|mepolizumab|natalizumab|necitumumab|nivolumab|obiltoxaximab|obinutuzumab|ocrelizumab","id":"0"}
+    ],
+    "result":[{"id":"0","type":"PROTEINAS"}]
+},
+
+{
+    "match":[
+      {"word":"ofatumumab|olaratumab|omalizumab|palivizumab|panitumumab|pembrolizumab|pertuzumab|ramucirumab|ranibizumab|raxibacumabreslizumab|rituximab|secukinumab|siltuximab|tocilizumab|trastuzumab|ustekinumab|vedolizumab|sarilumab|rituximab|hyaluronidase|guselkumab|inotuzumab|ozogamicin|adalimumab-adbm|gemtuzumab|bevacizumab-awwb|benralizumab|emicizumab-kxwh|trastuzumab-dkst|infliximab-qbtx|ibalizumab-uiyk|tildrakizumab-asmn|burosumab-twza|erenumab-aooe","id":"0"}
+    ],
+    "result":[{"id":"0","type":"PROTEINAS"}]
+}
+
+]}

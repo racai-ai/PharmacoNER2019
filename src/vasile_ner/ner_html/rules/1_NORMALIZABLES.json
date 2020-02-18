@@ -1,0 +1,47 @@
+{"rules":[
+
+{
+    "match":[
+      {"word":"hidantoína|iridium|hidroxiapatita|bario|penicilina|::PREFIX:methyl|::SUFFIX:histidine|labetalol|sodium|Prednisona|Ciclosporina|::SUFFIX:fenolato|::SUFFIX:cycline|::PREFIX:hydroxy|::SUFFIX:cortisone|::SUFFIX:oxacino|AINES|AINE|::SUFFIX:floxacino|::PREFIX:penicilina|::SUFFIX:sulfa|::SUFFIX:toxazol|::SUFFIX:toxasol|::PREFIX:vitamina|::SUFFIX:vitamina|::SUFFIX:rubina|::SUFFIX:aparina|::PREFIX:metil|::PREFIX:nitrato","ner":"O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"::SUFFIX:fosfamida|::SUFFIX:amicina","ner":"!NORMALIZABLES","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"acetato","id":"0"},
+      {"word":"de","id":"0"},
+      {"ner":"!NORMALIZABLES","max":1,"id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"dosis","id":"0"},
+      {"word":"de","id":"0"},
+      {"ner":"PROTEINAS|UNCLEAR|NORMALIZABLES","id":"1"}
+    ],
+    "result":[{"id":"0","type":"O"},{"id":"1","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"!::LOWERCASE","id":"0"},
+      {"msd":"NUM"},
+      {"word":"mg|ml|g"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+}
+
+
+
+
+]}

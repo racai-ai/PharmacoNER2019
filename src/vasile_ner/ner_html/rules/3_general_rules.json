@@ -1,0 +1,65 @@
+{"rules":[
+
+{
+    "match":[
+      {"ner":"O","max":1},
+      {"or":[{"word":"de|no|y|en|del|la|los|el|e"},{"msd":"PUNCT"}],"ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"or":[{"word":"de|no|y|en|del|la|los|el|e"},{"msd":"PUNCT"}],"ner":"!O","id":"0"},
+      {"ner":"O","max":1}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+
+{
+    "match":[
+      {"word":"de","id":"0"},
+      {"ner":"!O","msd":"NUM","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"ner":"!O","max":1},
+      {"lemma":"y|e","id":"0"},
+      {"ner":"!O","max":1}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"ner":"O","max":1},
+      {"word":"::NUMBER","id":"0"},
+      {"ner":"O","max":1}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"word":"estadio","id":"0"},
+      {"word":"clínico","min":"0","id":"0"},
+      {"ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"O"}]
+},
+
+{
+    "match":[
+      {"ner":"O","max":1},
+      {"word":"uno|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|diez|once|doce|trece|catorce|quince|dieciséis|diecisiete|dieciocho|diecinueve|veinte|treinta|cuarenta|cincuenta|sesenta|setenta|ochenta|noventa|cien","id":"0"},
+      {"ner":"O","max":1}
+    ],
+    "result":[{"id":"0","type":"O"}]
+}
+
+
+]}

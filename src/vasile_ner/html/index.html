@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>NER</title>
+<script src="jquery-3.2.1.min.js"></script>
+<script>
+function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+    $('#ner_submit').prop('disabled',false);
+    $('#loading').hide();
+}
+
+function submit_click(){
+    $('#ner_submit').prop('disabled',true);
+    $('#loading').show();
+    return true;
+}
+
+</script>
+</head>
+
+<body>
+
+<form id="ner_input" action="/ner" method="post" enctype="multipart/form-data" target="ner_iframe"  onsubmit="return submit_click();">
+
+Model: <select name="model" id="model"></select>
+
+<p>Introduceți un text (poate fi format din mai multe propoziții), cu diacritice.</p>
+
+<textarea rows="20" cols="100" name="text">
+</textarea><br/>
+
+<input type="checkbox" name="debug" value="True">DEBUG<br>
+<!--<input type="checkbox" name="show_a1" value="True">A1<br>
+<input type="checkbox" name="show_tf_raw" value="True">TF RAW<br>-->
+
+<input id="ner_submit" type="submit" name="submit" value="Procesare" />
+<div id="loading" style="display:none"><img src="loading.gif"/></div>
+</form>
+
+<script>
+
+$.ajax({
+  dataType: "json",
+  url: "models.json",
+  success: function(data){
+      var el=document.getElementById('model');
+      for(var i=0;i<data.length;i++){
+          model.innerHTML+='<option value="'+data[i]+'">'+data[i]+"</option>";
+      }
+  }
+});
+</script>
+<iframe name="ner_iframe" width="100%" frameborder="0" scrolling="no" onload="resizeIframe(this)" />
+
+</body>
+
+</html>

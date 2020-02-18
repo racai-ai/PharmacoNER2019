@@ -1,0 +1,230 @@
+{"rules":[
+
+{
+    "match":[
+      {"word":"::PREFIX:vitamin|thiamine","id":"0"},
+      {"word":"-","min":0,"id":"0"},
+      {"word":"B|B12|C|D|D2|D3|K|HCL","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"bisoprolol|ferous|ferrous|lithium|calcium|potassium|sodium|selenium|salicylic|decyl|trolamine|Zinc","id":"0"},
+      {"word":"-","min":0,"id":"0"},
+      {"word":"fumarate|gluconate|sulfate|carbonate|chloride|sulfide|acid|bicarbonate|glucoside|salicylate|oxide","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"Breo","id":"0"},
+      {"word":"-","min":0,"id":"0"},
+      {"word":"Ellipta","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"DOK","id":"0"},
+      {"word":"-","min":0,"id":"0"},
+      {"word":"100","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"depo","id":"0"},
+      {"word":"-","min":0,"id":"0"},
+      {"word":"medrol","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"docusate","id":"0"},
+      {"word":"-","min":0,"id":"0"},
+      {"word":"sodium","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"folic","id":"0"},
+      {"word":"-","min":0,"id":"0"},
+      {"word":"acid","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"gas","id":"0"},
+      {"word":"-","min":0,"id":"0"},
+      {"word":"relief","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"Nephro","id":"0"},
+      {"word":"-","min":0,"id":"0"},
+      {"word":"Vite","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"peg","id":"0"},
+      {"word":"-","min":0,"id":"0"},
+      {"word":"3350","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"septra","id":"0"},
+      {"word":"-","min":0,"id":"0"},
+      {"word":"ds","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"prenatal","id":"0"},
+      {"word":"-","min":0,"id":"0"},
+      {"word":"::PREFIX:vitamin","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"adriamicina","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"acetaminophen|acyclovir|Adderall|albuterol|alendronate|Allegra|alprazolam|amiodarone|amitriptyline|amlodipine|amoxicillin|AndroGel|aripiprazole|aspirin|atenolol|ativan|atorvastatin|Augmentin|azelastine|azilsartan","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"baclofen|Bactrim|Banophen|Benadryl|Benzaclin|benzocaine|benzonatate|betamethasone|bicalutamide|bisacodyl|bisoprolol|brompheniramine|budesonide|bumetanide","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"buprenorphine|bupropion|buspirone|butalbital|carvedilol|calcium|cefdinir|cefixime|cefuroxime|Celexa|cephalexin|Chantix|Cheratussin|ciprofloxacin|citalopram|clarithromycin","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"clindamycin|clobetasol|clonazepam|clonidine|clopidogrel|clotrimazole|codeine|DepoMedrol|desloratadine|desvenlafaxine|dexamethasone|Dexilant|dexlansoprazole|dextroamphetamine|Amphetamine|diazepam|diosmin","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"diclofenac|dicyclomine|Dilaudid|diltiazem|dimenhydrinate|Diphenoxylate|Atropine|divalproex|doxycycline|duloxetine|effexor|Efudex|Eldoquin|Eligard|Endocet|enoxaparin|Enteric|Enulose|epinephrine|ergocalciferol","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"erythromycin|escitalopram|Esomeprazole|Estarylla|Estrace|estradiol|etodolac|ezetimibe|famotidine|fenofibrate|fentanyl|FeroSul|filgrastim|finasteride|Flagyl","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"Flomax|Flovent|fluconazole|fluocinonide|fluorouracil|fluoxetine|fluticasone|Folbee|furosemide|gabapentin|Gavilyte|gemfibrozil|Generlac|gentamicin","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"Ginkgo|Biloba|glimepiride|glipizide|Glucophage|glycopyrrolate|griseofulvin|Guaiatussin|guaifenesin|Haldol|haloperidol|Humalog|Humira|Humulin|hydralazine|hydrochlorothiazide|hydrocodone","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+{
+    "match":[
+      {"word":"hydrocortisone|Hydromet|hydromorphone|hydroquinone|hydroxychloroquine|hydroxyzine|hydroxyurea|hyoscyamine|HySept|ibuprofen|Imdur|imiquimod|Inderal|indomethacin|insulin|ipratropium","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+{
+    "match":[
+      {"word":"loratadine|lorazepam|losartan|Lovenox|Lyrica|magnesium|Medrol|Melatonin|meloxicam|mesalamine|metformin|methotrexate|methylprednisolone|metoprolol|metronidazole|Microgestin|mirtazapine|misoprostol|Mobic|montelukast|morphine|Motrin|Mucinex|mupirocin|mycophenolate|nabumetone|naltrexone|Namenda|naproxen","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+{
+    "match":[
+      {"word":"irbesartan|iron|isoniazid|isosorbide|isotretinoin|itraconazole|ivabradine|ivermectin|Januvia|Jardiance|Jentadueto|Jolivette|Junel|K-Dur|Keflex|Kelnor|Kenalog|ketoconazole|ketorolac|ketotifen|Kionex","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+{
+    "match":[
+      {"word":"lactulose|Lamictal|lamotrigine|lasix|latanoprost|levocarnitine|levofloxacin|levonorgestrel|Levora|levothyroxine|lidocaine|linezolid|Lipitor|lisinopril","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+{
+    "match":[
+      {"word":"NephroVite|Neupogen|neurontin|Nexplanon|niacin|nifedipine|nitazoxanide|nitrofurantoin|Norco|norethindrone|norgestimate|nortriptyline|Norvasc|Nucynta|nystatin|ofloxacin|olanzapine|olopatadine|omeprazole|Omnicef|ondansetron|Opana|opium|Orapred|orphenadrine|Orthovisc|oxandrolone|oxybutynin|oxycodone|OxyContin|pantoprazole|paroxetine|pepcid|pentoxifylline|Percocet","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+{
+    "match":[
+      {"word":"phentermine|plavix|pradaxa|pravastatin|prednisolone|prednisone|pregabalin|prilosec|progesterone|promethazine|propranolol|pseudoephedrine|pyridoxine|quetiapine|Qvar|Ranexa|ranitidine|ranolazine|Remeron|Restasis|Retin-A|rifaximin|Ritalin|rizatriptan|Robafen|Robaxin|Robitussin-DM|Rocephin|ropinirole|rosuvastatin|Roxanol|Roxicodone|sulfamethoxazole|Senexon|sennosides|Seroquel|sertraline|sildenafil|silodosin|simvastatin|sitagliptin","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+{
+    "match":[
+      {"word":"goretex|spironolactone|Sprintec|Suboxone|surgicel|sulfacetamide|sumatriptan|Suprax|Synthroid|tamsulosin|tapentadol|telmisartan|terazosin|terbinafine|testosterone|tetracycline|tinidazole|tolterodine|topiramate|tramadol|Transderm-Scop|trazodone|tretinoin|triamcinolone|triprolidine|trospium","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+{
+    "match":[
+      {"word":"Tylenol|UltracetUltram|Undecylenic|Urea|Ursodiol|valacyclovir|valsartan|vancomycin|venlafaxine|Ventolin|verapamil|viagra|Vicodin|Victoza|Virtussin|Voltaren|Vyvanse|Warfarin|Wellbutrin|Xanax|Xarelto|Xifaxan|Xylocaine|Yuvafem|Zantac|Zetia|Zithromycin|Zoloft|Zolpidem|Zovirax|Zyrtec","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+},
+
+{
+    "match":[
+      {"word":"cobre","ner":"!O","id":"0"}
+    ],
+    "result":[{"id":"0","type":"NORMALIZABLES"}]
+}
+
+
+]}
